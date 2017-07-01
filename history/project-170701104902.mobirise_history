@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3955,17 +3955,17 @@
           "_name": "menu",
           "_anchor": "menu-2x",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#ff8d00",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3998,10 +3998,10 @@
           "_name": "header3",
           "_anchor": "header3-2z",
           "_params": {
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#ff8d00",
-            "showMeta": false
+            "bgColor": "#ff8d00"
           },
           "title": "CONTACTO",
           "meta": "By John Smith posted July 20, 2016"
@@ -4031,16 +4031,16 @@
           "_params": {
             "blockTitle": "",
             "HTMLCode": "<style>\n    .google-maps {\n        position: relative;\n        padding-bottom: 75%; // This is the aspect ratio\n        height: 0;\n        overflow: hidden;\n    }\n    .google-maps iframe {\n        position: absolute;\n        top: 0;\n        left: 0;\n        width: 100% !important;\n        height: 100% !important;\n    }\n</style>\n\n<div class=\"google-maps\">\n    <iframe src=\"https://www.google.com/maps/d/embed?mid=19bCaKugWIuBDynXg1vAjGyJqmTE\" width=\"640\" height=\"480\" frameborder=\"0\" style=\"border:0\"></iframe>\n</div>",
+            "extEdit": false,
             "paddingTop": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "extEdit": false
+            "overlayOpacity": 0.5
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "blockTitle": "",
@@ -4062,13 +4062,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "SÍGUENOS",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -4085,19 +4085,19 @@
           },
           "_anchor": "form1-70",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACTO",
           "subtitle": "Ayúdanos a llevar la Medicina de Precisión al Punto de Atención del Paciente",
@@ -7258,74 +7258,70 @@
             "columns": "4",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": true
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msf-ai-600x363.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kanteronsplitdiagram-600x417.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title1": "Microsoft y Kanteron fundan “Alianza de IA en Sanidad”",
+          "title1": "Noticia 1",
           "subtitle1": "Automatically protects PHI in the cloud",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kanteron2016sales-600x399.png",
+              "src": "@PROJECT_PATH@/assets/images/analyticsscreens-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title2": "Kanteron x3 sus ventas según resultados 2016",
+          "title2": "Noticia 2",
           "subtitle2": "Dashboards and Natural Language",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fandsreportcover-600x308.png",
+              "src": "@PROJECT_PATH@/assets/images/collaboration-600x427.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title3": "Kanteron destacada en el último informe sobre sanidad de Frost &amp; Sullivan",
+          "title3": "Noticia 3",
           "subtitle3": "From Telemedicine to Multidisciplinary",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/itms-600x362.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://bloges.kanteron.com",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "active": true
             }
           },
-          "title4": "La mayor red de telemedicina de Sudamérica elige Kanteron",
+          "title4": "Noticia 4",
           "subtitle4": "We have a new blog",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "news.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7258,74 +7258,70 @@
             "columns": "4",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": true
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msf-ai-600x363.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kanteronsplitdiagram-600x417.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title1": "Microsoft y Kanteron fundan “Alianza de IA en Sanidad”",
+          "title1": "Noticia 1",
           "subtitle1": "Automatically protects PHI in the cloud",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kanteron2016sales-600x399.png",
+              "src": "@PROJECT_PATH@/assets/images/analyticsscreens-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title2": "Kanteron x3 sus ventas según resultados 2016",
+          "title2": "Noticia 2",
           "subtitle2": "Dashboards and Natural Language",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fandsreportcover-600x308.png",
+              "src": "@PROJECT_PATH@/assets/images/collaboration-600x427.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title3": "Kanteron destacada en el último informe sobre sanidad de Frost &amp; Sullivan",
+          "title3": "Noticia 3",
           "subtitle3": "From Telemedicine to Multidisciplinary",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/itms-600x362.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://bloges.kanteron.com",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "active": true
             }
           },
-          "title4": "La mayor red de telemedicina de Sudamérica elige Kanteron",
+          "title4": "Noticia 4",
           "subtitle4": "We have a new blog",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://bloges.kanteron.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">LEER MÁS</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
