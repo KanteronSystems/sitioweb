@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "othermodules.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -325,10 +325,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALIZA",
@@ -342,10 +341,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALIZA",
@@ -982,10 +980,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -999,10 +996,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
@@ -4346,10 +4342,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -4363,10 +4358,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
@@ -4738,10 +4732,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -4755,10 +4748,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
@@ -5130,10 +5122,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -5147,10 +5138,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
@@ -5522,10 +5512,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -5539,10 +5528,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
@@ -5914,10 +5902,9 @@
               "name": "drag-n-drop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title3": "ANALICE",
@@ -5931,10 +5918,9 @@
               "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000",
-              "newWindow": false
+              "color": "#000000"
             }
           },
           "title4": "VISUALICE",
