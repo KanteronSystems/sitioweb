@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "team.html",
+    "currentPage": "cases.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,8 +25,8 @@
     "noImageResize": "",
     "globalfooter": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 295,
-    "versionPublish": "4.3.0",
+    "uniqCompNum": 293,
+    "versionPublish": "4.1.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-51273041-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -694,7 +694,7 @@
           },
           "title1": "PARTNERS",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "GOOGLE<br>MICROSOFT<br>INGRAM MICRO<br>IBM<br>AWS",
+          "caption1": "MICROSOFT<br>INGRAM MICRO<br>IBM<br>HITACHI<br>CGI",
           "button1": "<a data-app-btn=\"true\" href=\"partnersandquality.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MÁS</a>",
           "media2": {
             "iconFont": {
@@ -2390,7 +2390,7 @@
             }
           },
           "title1": "Jorge&nbsp;Cortell",
-          "subtitle1": "Fundador y Director General 🇬🇧",
+          "subtitle1": "Fundador y Director General (Reino Unido)",
           "caption1": "Emprendedor en serie (x8); Oxford (Computing) y MIT (Emprendedurismo); Experto de la Comisión Europea en Inversión Social;<a href=\"https://news.microsoft.com/en-gb/features/one-mans-quest-revolutionise-cancer-treatment/\" target=\"_blank\">&nbsp;Comenzó por amor</a>.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.linkedin.com/in/jcortell/en\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/jcortell</a> <a data-app-btn=\"true\" href=\"https://twitter.com/jorgecortell\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>@jorgecortell</a>  ",
           "media2": {
@@ -2406,7 +2406,7 @@
             }
           },
           "title2": "John Memarian",
-          "subtitle2": "Presidente y Director Comercial 🇺🇸",
+          "subtitle2": "Presidente y Director Comercial (EE. UU.)",
           "caption2": "Ex-Presidente de Merge (acquirida por IBM por $1B); Ejecutivo en GE; Especialista en McKesson; Director en Leidos; VP en Mach 7; Ejecutivo en Agilent.",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/johnmemarian\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/johnmemarian</a> ",
           "media3": {
@@ -2422,7 +2422,7 @@
             }
           },
           "title3": "Santiago Gala",
-          "subtitle3": "Director de SIstemas 🇪🇸",
+          "subtitle3": "Director de SIstemas (España)",
           "caption3": "Ex-director de IA de la Agencia Espacial Europea; Presidente de Apache Software Foundation (portales); Ex-consultor Telefonica; I+D en Indra.",
           "button3": "<a data-app-btn=\"true\" href=\"https://es.linkedin.com/in/sgala\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/sgala</a> <a data-app-btn=\"true\" href=\"https://twitter.com/gala_santiago\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>/gala_santiago</a> ",
           "media4": {
@@ -2515,7 +2515,7 @@
             }
           },
           "title1": "Luis Alario",
-          "subtitle1": "Director de Desarrollo 🇪🇸",
+          "subtitle1": "Director de Desarrollo (España)",
           "caption1": "Experto en PACS-RIS y HL7.",
           "button1": "<a data-app-btn=\"true\" href=\"http://es.linkedin.com/pub/luis-alario/92/556/440\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/luis-alario</a>",
           "media2": {
@@ -2531,7 +2531,7 @@
             }
           },
           "title2": "Juan Tatay",
-          "subtitle2": "Director de Operaciones 🇪🇸",
+          "subtitle2": "Director de Operaciones (España)",
           "caption2": "MIT (EDP), Cambridge (Ignite); Profesor Invitado.",
           "button2": "<a data-app-btn=\"true\" href=\"http://es.linkedin.com/in/juantatay/es\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/juantatay</a> <a data-app-btn=\"true\" href=\"https://twitter.com/silta_dixIT\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>/juantatay</a>",
           "media3": {
@@ -2547,7 +2547,7 @@
             }
           },
           "title3": "Eva Panadero",
-          "subtitle3": "Desarrolladora y Directora de Proyectos. 🇪🇸",
+          "subtitle3": "Desarrolladora y Directora de Proyectos. (España)",
           "caption3": "Experta en HIS.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/pub/eva-panadero-peris/a5/269/a86\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/eva-panadero-peris</a>",
           "media4": {
@@ -2588,6 +2588,11 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4l",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -2612,7 +2617,7 @@
           },
           "media1": {
             "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/pablo-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pablo-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2622,9 +2627,13 @@
               "linkInNewWindow": true
             }
           },
+          "title1": "Pablo Hinojosa",
+          "subtitle1": "Director de Soporte Técnico (España)",
+          "caption1": "Más de un lustro de experiencia en soporte técnico.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/linuxsystemadministrator</a>",
           "media2": {
             "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/ruben-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruben-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2634,119 +2643,13 @@
               "linkInNewWindow": true
             }
           },
-          "media3": {
-            "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/david-450x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "David",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Pablo Hinojosa",
-          "subtitle1": "Director de Soporte Técnico 🇪🇸",
-          "caption1": "Más de un lustro de experiencia en soporte técnico.",
-          "title2": "Rubén Hernandis",
-          "subtitle2": "Desarrollo 🇪🇸",
+          "title2": "Ruben Hernandis",
+          "subtitle2": "Desarrollo (España)",
           "caption2": "Y voluntario en el Inst. Nac. de Cyberseguridad.",
-          "title3": "Dr. David García",
-          "subtitle3": "Director de Imagen Médica 🇪🇸",
-          "caption3": "Una década de experiencia en imagen médica.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/linuxsystemadministrator</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/rhernandis/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/rhernandis</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/david-garcía-juan-phd-5206ab10\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/david-garcía-juan-phd-5206ab10<br></a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-85"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/gala-450x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.linkedin.com/in/linuxsystemadministrator/",
-              "alt": "Gala",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/alien-450x450.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
           "media3": {
             "image": {
-              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/edwin-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/edwin-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2756,6 +2659,10 @@
               "linkInNewWindow": false
             }
           },
+          "title3": "Edwin Smith",
+          "subtitle3": "Soporte Técnico (Colombia)",
+          "caption3": "Casi una década de experiencia en soporte técnico.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/edwinsmithvelandia/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/edwinsmithvelandia</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2764,6 +2671,10 @@
               "active": true
             }
           },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2772,6 +2683,10 @@
               "active": true
             }
           },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2780,35 +2695,10 @@
               "active": true
             }
           },
-          "title1": "Gala Egea",
-          "subtitle1": "Legal y Regulatorio 🇪🇸",
-          "caption1": "Años de experiencia como abogada.",
-          "title2": "¿Tú?",
-          "subtitle2": "Des. 🌌",
-          "caption2": "¿Crees que deberías ser parte de nuestro equipo?",
-          "title3": "Edwin Smith",
-          "subtitle3": "Soporte Técnico 🇨🇴",
-          "caption3": "Casi una década de experiencia en soporte técnico.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/gala-egea-mañó-09448070</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/rhernandis/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/?</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/edwinsmithvelandia/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/edwinsmithvelandia</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-86"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -2870,9 +2760,9 @@
               "linkInNewWindow": true
             }
           },
-          "title1": "Dr .Raminderpal Singh",
-          "subtitle1": "Asesor Estratégico 🇬🇧",
-          "caption1": "Ex-VP en Eagle Genomics; Inversor en 3iGroup; Director de Estrategia y Desarrollo de Medicina Genómica en IBM Investigación.",
+          "title1": "Raminderpal Singh",
+          "subtitle1": "Asesor Estratégico (Reino Unido)",
+          "caption1": "VP en Eagle Genomics; Ex-inversor en 3iGroup; Director de Estrategia y Desarrollo de Medicina Genómica en IBM Investigación.",
           "button1": "<a data-app-btn=\"true\" href=\"https://uk.linkedin.com/in/raminderpalsingh123\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/raminderpalsingh123</a>",
           "media2": {
             "image": {
@@ -2887,7 +2777,7 @@
             }
           },
           "title2": "Dr. Szilard Voros",
-          "subtitle2": "Asesor Científico-Clínico 🇺🇸",
+          "subtitle2": "Asesor Científico-Clínico (EE. UU.)",
           "caption2": "Fundador y Gerente Global Genomics Group; Prof. A. y Dir. de CT y Reso Cardiovascular en Centro Médico Univ. Estatal de Nueva York Stony Brook.",
           "button2": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Szilard_Voros\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-wikipedia mbr-iconfont mbr-iconfont-btn\"></span>/Szilard_Voros</a>",
           "media3": {
@@ -2902,8 +2792,8 @@
               "linkInNewWindow": true
             }
           },
-          "title3": "Dr. Manuel Perez Alonso",
-          "subtitle3": "Asesor Genómica 🇪🇸",
+          "title3": "Manuel Perez Alonso",
+          "subtitle3": "Asesor Genómica (España)",
           "caption3": "Director Programa Postgrado de Genómica Clínica Univ. de Valencia; Fundador del Inst. de Medicina Genómica; Editor-jefe Genética Médica News.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/manuelperezalonso/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/manuelperezalonso/</a>",
           "media4": {
@@ -3250,11 +3140,11 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gcp_badge_a_01_1x_wbbp1z-410x200.png",
+              "src": "@PROJECT_PATH@/assets/images/hitachi-600x190.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.google.com/intl/es/cloud/",
+              "link": "https://www.hitachi.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -3902,7 +3792,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Kanteron Systems se convierte en socio tecnológico de Google Cloud para la medicina de precisiónHemos recibido numerosos premios y menciones como:</p><p><br></p><p>2007 Nominación doble al premio Innovador del Año, Wall Street Journal</p><p>2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</p><p>2010 Finalista al premio Mejor Joven Empresario del Año (España)</p><p>2011 Nominación al premio Joven Empresa Innovadora del Año (España)</p><p>2012 Campeón Nacional (España) de los Premios Empresariales Europeos</p><p>2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</p><p>2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</p><p>2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</p><p>2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</p><p>2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</p><p>2013 Innovación del Año (Diario El Mundo)</p><p>2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</p><p>2014 Nominación por el Foro Económico Mundial para Empresa Pionera en Tecnología</p><p>2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</p><p>2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</p><p>2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</p><p>2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</p><p>2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</p><p>2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</p><p>2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</p><p>2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</p><p>2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</p><p>2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</p><p>2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</p><p>2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</p><p>2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</p><p>2016 Premio Digital Health Venture Forum</p><p>2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</p><p>2016 Una de las top 50 startups superestrella de Reino Unido</p><p>2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</p><p>2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</p><p>2017 El Director Gerente de Kanteron es elegido como el \"Mejor CEO de la Industria\"</p><p>2017 Elegidos por Google como Socios Tecnológicos Estratégicos para la Medicina de Precisión</p><p>2017 Nombrados entre los “10 Mejores Proveedores de Soluciones Genómicas”</p>"
+          "text": "<p>Hemos recibido numerosos premios y menciones como:</p><p><br></p><p>2007 Nominación doble al premio Innovador del Año, Wall Street Journal</p><p>2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</p><p>2010 Finalista al premio Mejor Joven Empresario del Año (España)</p><p>2011 Nominación al premio Joven Empresa Innovadora del Año (España)</p><p>2012 Campeón Nacional (España) de los Premios Empresariales Europeos</p><p>2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</p><p>2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</p><p>2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</p><p>2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</p><p>2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</p><p>2013 Innovación del Año (Diario El Mundo)</p><p>2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</p><p>2014 Nominación por el Foro Económico Mundial para Empresa Pionera en Tecnología</p><p>2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</p><p>2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</p><p>2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</p><p>2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</p><p>2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</p><p>2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</p><p>2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</p><p>2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</p><p>2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</p><p>2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</p><p>2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</p><p>2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</p><p>2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</p><p>2016 Premio Digital Health Venture Forum</p><p>2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</p><p>2016 Una de las top 50 startups superestrella de Reino Unido</p><p>2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</p><p>2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -7140,7 +7030,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">29/07/17 Kanteron Systems ha sido un líder en este espacio [Genómica] de rápido crecimiento y está creando una gran expectación”</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> Edwin Joseph, revista Pharma Tech Outlook (EE. UU.)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">29/07/17 Gratamente sorprendido, abrumado</span></p><p>Dr. Miguel Ramírez Backhaus, Instituto Valenciano de Oncología - IVO (España)</p><p><br></p><p>12/11/16 Una empresa potente y un interesante modelo de negocio</p><p>Omkar P. Kulkarni, MPH, Director, Aceleradora de Innovación Sanitaria TechStars-Cedars-Sinai (EE. UU.)</p><p><br></p><p>08/11/16 Kanteron siempre fue un paso por delante</p><p>Fernando Bergaz de Hoyos, CEO, Radiology Network Service RNS (España)</p><p><br></p><p>07/11/16 Impresionante. Repito: Impresionante</p><p>Dr. Ole Pleß, Biomarcadores, Instituto Fraunhofer de Biología Molecular (Alemania)</p><p><br></p><p>27/10/16 Tremendamente impresionante</p><p>Mike Denis, Director de Estrategia de Información, Oxford Academic Health Science Network (Reino Unido)</p><p><br></p><p>01/08/16.- Esta nueva tecnología [la de Kanteron Systems] podría ahorrarle al NHS millones de libras esterlinas cada año.</p><p>Microsoft News Centre (Reino Unido)</p><p><br></p><p>29/06/16.- Kanteron Systems […] hace fácil y rápido el buscar y navegar a través de datos genómicos relevantes.</p><p>Microsoft Genomics (EE. UU.)</p><p><br></p><p>02/05/16.- Fantástica historia y estupenda tecnología con un buen modelo de negocio.</p><p>Ulf Hertin, Director de Proyectos Nórdicos – Médecins Sans Frontières (Suecia)</p><p><br></p><p>01/05/16.- ¡Wow! Fantástico… impresionante.</p><p>Subhasish Ghosh, Consultor Asociado Principal – Amazon Web Services AWS (India)</p><p><br></p><p>01/05/16.- ¡Impresionante e inspirador!</p><p>Pierre Zavattero, Director Comercial – New Vision Display, Inc. (Francia)</p><p><br></p><p>08/03/16.- Es particularmente emocionante ver una solución real [la de Kanteron] en la intersección de tantas disciplinas que han estado históricamente fragmentadas las unas de las otras.</p><p>Florent Saint-Clair, Vicepresidente Ejecutivo – Dicom Systems, Inc. (EE. UU.)</p><p><br></p><p>21/12/15.- [El de Kanteron] ¡¡es un producto fantástico!!</p><p>Sorin Dragomir, Fundador y CEO – Webhippocrates.com (Rumania)</p><p><br></p><p>11/12/15.- ¡Kanteron es una empresa seriamente emocionante y que está cambiando el mundo!</p><p>Elizabeth Varley, Fundadora y CEO – TechHub (Reino Unido)</p><p><br></p><p>26/11/15.- [Kanteron Systems está] ahorrando miles de millones a los sistemas sanitarios, a la vez que salvando millones de vidas.</p><p>Silicon Valley Comes to the UK (Reino Unido)</p><p><br></p><p>06/11/15.- [Kanteron Systems] podría alcanzar los 100 millones de libras de facturación en los próximos tres a cinco años. [Kanteron Systems es una de las] compañías británicas que más probablemente se convertirán en gigantes tecnológicos rivales de Facebook y Google.</p><p>The Guardian (Reino Unido)</p><p><br></p><p>03/11/15.- (…) con Kanteron Systems (…) se obtienen diagnósticos más precisos.</p><p>Antonio Rodríguez, director de Soluciones de Cloud en IBM España, Portugal, Grecia e Israel</p><p><br></p><p>15/09/15.- El futuro de la medicina hoy</p><p>Brian de Francesca, CEO – Ver2 (Emiratos Árabes Unidos)</p><p><br></p><p>02/06/15.- [Kanteron Systems tiene] una plataforma sin precedentes, revolucionaria, que ofrece la más moderna gestión de imagen, así como genómica clínica.</p><p>Dr. Szilard Voros, Fundador y CEO – Global Genomics Group (EE. UU.)</p><p><br></p><p>05/05/15.- [La plataforma de Kanteron] navega de uno a otro [patología digital, imágenes DICOM, y datos genómicos] sin problemas.</p><p>Sean W. Sigmon, Director de Desarrollo de Negocio, Medicina Translacional – Oracle (EE. UU.)</p><p><br></p><p>08/04/15.- Juntos, con nuestra solución conjunta, Kanteron e Hitachi Data Systems pueden mejorar la sanidad y hacer realidad la medicina personalizada y unos diagnósticos más precisos.</p><p>Dave Wilson, Director de Tecnología – Hitachi Data Systems (EE. UU.)</p><p><br></p><p>03/04/15.- La visualización de datos genómicos y su procesamiento e integración en una Historia Clínica Electrónica es algo que nadie en el mercado ofrece hoy en día. Con esta alianza [con Kanteron Systems] everis está haciendo historia en la genómica clínica.</p><p>Mario Chao, socio y Director Global de la práctica de Salud – everis (España)</p><p><br></p><p>08/12/14.- ¡Excelente trabajo!</p><p>Marcelo Fernández, Gestor de Proyectos – IBM (Uruguay)</p><p><br></p><p>17/11/14.- Es un honor conocerles y saber de su visión de medicina personalizada unificando patología, genómica, farmacogenómica, y analytics. Creo que han dado en el clavo de la necesidad y estrategia, y su pasión ejecutiva es inspiradora.</p><p>Tony Zordich, Director General – Business BenchmaRx, Carolina del Norte (EE. UU.)</p><p><br></p><p>21/10/14.- Kanteron fue recomendada a nuestro Consejo de Administración por nuestros analistas IDC</p><p>Gina Zanetti, Directora de Cuentas Estratégicas – GDS International, Nueva York (EE. UU.)</p><p><br></p><p>20/10/14.- Impresionante de verdad.</p><p>Ravi Raju, Director Gestión de Clientes, Plataforma y Productos de Sanidad – TATA Consultancy Services, Bangalore (India)</p><p><br></p><p>Thanks @jorgecortell Of course we follow @kanteron Systems! Your european open source software, mainly for the healthcare community, is WoW!</p><p><br></p><p>— MADrid smART City (@madridsmartcity) October 10, 2014</p><p>25/09/14.- El producto [de Kanteron Systems] es muy interesante.</p><p>Dra. Rivka Colen, Profesora Asociada, Departmento de Radiología Diagnóstica, División de Diagnóstico por Imagen – MD Anderson Cancer Center de la Universidad de Texas, Houston, TX (EE. UU.)</p><p><br></p><p>19/09/14.- No ocurre muy a menudo que una empresa me causa tantísima impresión. Aún estoy alucinado.</p><p>Por la tarde me pasé horas pensando con una sonrisa: imagina el impacto (que va a causar Kanteron Systems) en el sistema de salud mundial,… ¡imagina!</p><p>Han fundado una compañía muy hermosa que realmente destaca.</p><p>JA… ojalá tuviese acciones.</p><p>Job Oude Bekke, Director de Imagen Diagnóstica – Simed International B.V. (Holanda)</p><p>24/06/14.- SPLIT [de Kanteron’s] tiene el enorme potencial de proveer de una forma sencilla de consumir una solución de almacenamiento en nube y compartir datos para sanidad.</p><p>Lisa Banks, Evaluación Corporativa de Tecnología – IBM CHQ, Innovación y Tecnología (EE. UU.)</p><p>31/03/14.- En una sesión remota con el principal patólogo del país y el Jefe de Tecnologías y Servicios Diagnósticos del Ministerio de Salud, la sesión a tres bandas [EEUU-Europa-Africa] funcionó a la perfección.  Vieron el claro potencial de doblar o triplicar su carga de casos de Histología/Citología locales empleando la solución de Kanteron.</p><p>Jeremy Kagan, CEO – MMT Diagnostics LTD (Israel)</p><p>14/03/14.- Aquí hay un potencial enorme.</p><p>Rob Addy, Vicepresidente de Investigación – Gartner, Dartford (Reino Unido)</p><p>16/03/14.- Hoy en día Kanteron Systems tiene el conocimiento más avanzado en Patología Digital, gracias a su enfoque independiente del fabricante del escáner a la hora de diseñar soluciones para gestionar diferentes tipos de imágenes digitales y necesidades de diferentes especialidades. Definitivamente Kanteron Systems va a ser un punto de referencia muy pronto.</p><p>Roberto Ongaro, Asesor principal de eHealth – HIM.IT – Dedalus Group Bolonia (Italia)</p><p><br></p><p>28/02/14.- Estoy muy impresionado con la plataforma tecnológica de Kanteron Systems.</p><p>Dr. Cecil O. Lynch, MS, Profesor Adjunto de Informática para Patología, Facultad de Medicina Davis, Universidad de California (EE. UU.); y Director de Informática Médica, Accenture (EE. UU.)</p><p>28/02/14.- Gracias. El sistema [de Kanteron] ya se está usando en todos nuestros centros y ha tenido una gran acogida. Agradecemos todo el trabajo que el personal [de Kanteron] ha hecho para que cumplamos con las fechas previstas.</p><p>Steve Echols, Director de Marketing en Monticello Diagnostic Imaging, Fort Worth, TX (EE. UU.)</p><p>02/01/14.- [TMIS de Kanteron Systems] va a cambiar el curso de los actuales protocolos de tratamiento. También va a tener profundas implicaciones en términos de clinical staging y histological grading.</p><p>Shagufta Tahir Mufti, Profesor Asociado de Patología Anatómica y Clínica en la Universidad King Abdulaziz (Arabia Saudita)</p><p><br></p><p>10/12/13.- Kanteron Systems hizo una demostración de los enormes pasos que ha dado en la unificación del archivo de los tres elementos “grandes” de datos de pacientes : 1 – Imagen médica 2 – Imagen de patología 3 – Información genética, dentro de una misma plataforma.</p><p>Nadim Michel Daher, Analista Principal – Imágenes Médicas e Informática de Imagenología, y Siddharth Saha, Líder Global de Tecnología Médica Avanzada, Frost &amp; Sullivan, Mountain View, CA (EE. UU.) “Revisión de RSNA 2013: Buscando lo último y lo mejor en la feria más grande de Imagen Médica e Informática de Imagenología“ en la sección “Seleccionando lo más ¡WOW! que encontramos en la feria”.</p><p><br></p><p>06/12/13.- Me fascina vuestro producto y creo que tiene gran potencial.</p><p>Frank Genovese, HIMSS Analytics Consulting, Nueva York, NY (EE. UU.)</p><p><br></p><p>02/12/13.- Increíblemente emocionante. Con TMIS para PD se pueden obtener eficiencias muy elevadas. TMIS para PD sería tremendamente útil para integrar el diagnóstico, tratamiento, seguimiento y adherencia a la medicación.</p><p>Dra. Genevieve Learmonth, Profesora y Asesora de Histo y Cytopathología del NHS (Reino Unido) y la Universidad de Cape Town – Hospital Groote Schuur (Suráfrica)</p><p><br></p><p>29/07/2013.- Nos atrajo el ciclo de desarrollo rápido de Kanteron; y un enfoque que simplifica el manejo de datos del paciente. En lugar de seleccionar un sistema paquetizado, la solución Kanteron ha sido adaptar el sistema a nuestras necesidades, lo que resulta en un producto único que puede ofrecer precisamente lo que los médicos quieren.</p><p>Dr. Paul Marsh – Radiólogo, Monticello Diagnostic Imaging, Fort Worth, Texas (EE. UU.)</p><p><br></p><p>27/07/13.- La integración de imágenes digitales de patología en los sistemas hospitalarios existentes, como PACS y EHR en formato DICOM es algo que sólo los sistemas Kanteron pueden ofrecer hoy en día en el mercado.</p><p>Dr. Gideon Ho – Co-fundador y Director General, HistoIndex (Singapur)</p><p><br></p><p>24/05/13.- Como médico e investigador, soy muy consciente de las necesidades urgentes de los hospitales como el Monte Sinaí para integrar datos. Patología y Laboratorio generan alrededor del 70% de toda la información clínica crítica. Es el momento de migrar a un entorno totalmente digital, donde los patólogos pueden revisar y compartir los casos utilizando imágenes de alta resolución. Los problemas de los últimos años están siendo resueltos por Kanteron, incluyendo imágenes que ahora son fáciles de importar, un sistema que es fácil de navegar, y del que se extraiga el conocimiento y defina las normas. Creemos que Kanteron está en el camino de la implementación exitosa de esta plataforma tan necesaria.</p><p>Dr. Carlos Cordon-Cardo – Profesor y Presidente, Departamento de Patología, Hospital Mount Sinai, Nueva York (EE. UU.)</p><p><br></p><p>16/04/13.- Siendo parte de una red de teleconsulta integrada, eficiente y rápida, como la que Kanteron Systems es capaz de proveer, los pacientes pueden beneficiarse de una atención más rápida y un mayor y mejor diagnóstico en última instancia.</p><p>Dr. Carlos Salazar Lozano – Jefe de Servicios, Dirección Médica, ISSSTE (México)</p><p><br></p><p>26/12/12.- He tenido el placer de colaborar con Kanteron para la creación de un software de radiología muy específico. A través de correos electrónicos y telecomunicaciones, el equipo de diseño de Kanteron ha comprendido rápidamente nuestras necesidades de conformidad legal y extrapolado desde nuestras especificaciones un plugin para Osirix de funcionalidad vital. Kanteron ha sido capaz de desarrollar, versionear, y entregar el producto rápidamente, lo que ha jugado una parte significativa en la validación exitosa y a tiempo de las funciones de nuestro laboratorio de radiología de acuerdo a los estándares 21CFR Parte 11 de la FDA.</p><p>El equipo de Kanteron siempre ha mostrado no sólo profesionalidad en nuestras interacciones sino experiencia suprema en la creación del software que necesitábamos. Han estado disponibles desde España en nuestro horario de trabajo, sin retraso, resultando en una de las mejores experiencias de atención al cliente que he tenido.</p><p>Recomendaría a Kanteron sin reservas y trabajaría con ellos de nuevo a la más mínima oportunidad.</p><p>Director de proyectos de TIC que solicita mantenerse en el anonimato por la naturaleza confidencial del desarrollo a medida que se ha realizado para su organización (EEUU)</p><p><br></p><p>11/08/12.- Decir que “me ha impresionado” lo que está haciendo Kanteron Systems sería quedarse muy corto.</p><p>Sean Murphy, Director de Desarrollo, División de Mejoras Clínicas de el British Medical Journal (Inglaterra)</p><p><br></p><p>13/08/12.- Gracias de nuevo por la inestimable ayuda. Ha sido rápido y eficaz.</p><p>Dr. Jose Manuel Romero, Clínica Equina, Madrid (España)</p><p><br></p><p>11/08/12.- Resulta que estoy en una red wifi con conexión a internet via ADSL, y he podido ver la imagen (PACS de Patología) a una velocidad sorprendentemente elevada.</p><p><br></p><p>17/08/12.- Parece una muy buena implementación. También tienen las imágenes en formatos abiertos, lo que recomiendo.</p><p>Dr. Harold Lance Evans, Miembro (Hematopatología) del University of Maryland Medical Center (EEUU)</p><p><br></p><p>19/06/12.- ¡¡Funciona estupendamente!! Muchas gracias por su ayuda</p><p>Dr. Steve Hopkins, FACS, Sonora Vein Center (California, EEUU)</p><p><br></p><p>12/06/12.- Para nosotros (…) una excelente opción fue KANTERON. Sin arrogancia han logrado dar una respuesta eficiente a la administración de las imágenes diagnósticas. (…) Periódicamente hemos recibido actualizaciones que corrigen algunos de los errores que se han presentado o que introducen las modificaciones que hemos solicitado, esto como usuario y administrador de un departamento de imágenes me da tranquilidad porque es ver en la práctica el soporte que se prometió.</p><p><br></p><p>12/09/11.- Su tecnología [RIS, PACS y KDS de Kanteron Systems] se eligió por ser más avanzada, sólida, adaptable, y abierta que soluciones similares ofrecidas por [otras compañías multinacionales que han solicitado que no se les mencione, incluida a la que Kanteron Systems sustituyó].</p><p>Dr. Luis Felipe Uriza, Director Dept. Radiología, Hospital Universitario San Ignacio, Bogotá (Colombia)</p><p><br></p><p>31/05/12.- Nuestra experiencia con ellos ha sido absolutamente fenomenal, la migración fue sin incidentes, todo parece tan fácil con ellos.</p><p>Mark Large, Director de Sistemas, Great Ormond Street Hospital – NHS, Londres (Reino Unido) publicado en The GuardianBuilding Better HealthcareBBCHealthcare IT NewsE-Health InsiderOpen Health NewseHealth EuropeHospital IT Europe, UK Government Online UK Government OpportunitiesHealthcare Today, y ComputerWeekly interview</p><p><br></p><p>05/09/11.- Desde el primer día Kanteron Systems nos ofrece un excelente servicio técnico y 3 años después seguimos convencidos de que fue la mejor elección.</p><p>D. Juan Antonio Alba, Director Asistencial y de Sistemas, C.H.I.P. Hospital, Málaga (España)</p><p><br></p><p>08/08/11.- [El CloudApp Plug-in de KDS] Es espectacular no solo lo puedo abrir [estudios] en casa sino que también lo puedo abrir en el el iPad.</p><p>Dr. Eduardo P. Eyheremendy, Director Médico de la Fundación HHT, Comisión de Educación de la Sociedad Argentina de Radiología, Universidad de Yale, Consejo de Redacción de la Revista Argentina de Radiología, Hospital Alemán (Argentina)</p><p><br></p><p>18/05/11.- Gracias a Kanteron hemos ahorrado más de 40.000 € en una solución de software dedicado, ya que su solución KDS ofrece características específicas y muy útiles para muchas especialidades, con un coste muy inferior –menos de la sexta parte–.</p><p>Dra. Julia Camps Herrero, Radióloga, Hospital de La Ribera, Valencia (España)</p><p><br></p><p>12/11/10.- Mi objetivo era que a mis clientes estuviesen satisfechos y todos ellos me han dicho que les ha resultado muy útil [el curso que Kanteron Systems ha impartido], es un hecho que se puede contrastar con los cirujanos vasculares de la Sociedad Norte [de Cardiología] de España. Ha sido un placer trabajar con [el técnico de Kanteron Systems], ha sido de gran ayuda, un gran profesional y muy agradable en el trato personal. El feedback que he dado a mi empresa sobre vuestra parte ha sido muy positivo y también el que he recibido yo, por parte de mis clientes, sobre el trabajo de [el técnico de Kanteron Systems]. Ha sido un placer trabajar con vosotros y espero que podamos seguir colaborando en un futuro.</p><p>Mónica Fernández Sales specialist, Aortic Intervention, COOK Spain (Gijón, España)</p><p><br></p><p>12/05/10.- Tienen un producto fantástico.</p><p>Dr. Jack A. Ziffer, FSCCT; Presidente – Sociedad de TAC Cardiovascular – Miami (EEUU)</p><p><br></p><p>22/04/10.- Gracias al empleo de los equipos Kanteron hemos resuelto dos problemas, por un lado el almacenamiento de estudios y por otro el de la telerradiología. Destacar la gran flexibilidad de las estaciones de trabajo, ya que nos permiten realizar operaciones que con estaciones de G.E. o Siemens no nos era posible. Otra ventaja es el desarrollo de soluciones a medida. En nuestro casos ellos [Kanteron Systems] fueron los responsables de configuración de todas las conexiones entre los distintos centros. Además, crearon una aplicación que permite que el médico que solicita la prueba pueda consultarla desde cualquier equipo.</p><p>Dr. Pedro González Cabezas. Médico Nuclear. Red Pet Iberia. Valencia-Sevilla-Alicante-Barcelona (España)</p><p><br></p><p>31/03/10.- Francisco Cortés, director general de Tallard México, anda feliz con el caso de éxito que uno de los integradores del mayorista logró al implantar el sistema completo de Administración, Almacenamiento, Distribución y Postprocesamiento de Imágenes Médicas (PACS/RIS) en el Centro Médico Nacional 20 de Noviembre del ISSSTE. La compañía no deja de publicitar el caso que involucró tecnologías de las empresas Ceurac- Kanteron y Apple.</p><p>Publicado en Infochannel (Mexico)</p><p><br></p><p>Con este sistema esperamos ofrecer, sobre todo, un servicio de diagnóstico más rápido y eficiente a los trabajadores del estado, que son los usuarios de este hospital.</p><p>Dr. Rafael Navarro Meneses, director del nosocomio</p><p><br></p><p>El Gobierno ha invertido mucho en mejorar los servicios médicos para sus derechohabientes y este sistema forma parte de un proyecto más grande que busca, además de agilizar el diagnóstico, reducir nuestras emisiones contaminantes.</p><p>Contar ahora con sistemas completamente digitales para leer resonancias magnéticas, rayos X, mamografías y demás servicios médicos, les ha permitido reducir hasta en 75 % la impresión de placas radiográficas en plata.</p><p>Dra. Julita Orozco Vázquez, titular del área de radiología Publicado en Diario La Reforma (Mexico)</p><p><br></p><p>La implementación exitosa del sistema de Administración de Imágenes Médicas del Centro Médico Nacional 20 de Noviembre, refrenda una vez más el compromiso de las instituciones públicas por ofrecer soluciones reales a las necesidades más importantes de salud de la población mexicana. Esta iniciativa claramente pone al asegurado como centro de atención de los esfuerzos de modernización del ISSSTE</p><p>Dr. Rafael Manuel Navarro Meneses, Director del CMN “20 de Noviembre”</p><p><br></p><p>Existe un importante apoyo diagnóstico oportuno de las lesiones, ya que con el desarrollo del sistema permite el manejo de imágenes, utilizando las herramientas tecnológicas para realizar reconstrucciones en 3D, 4D y 5D o bien endoscopias virtuales, lo que ha permitido en algunos casos cambios de tratamientos sustanciales</p><p>Dra. Julita Orozco, Jefa del Servicio de Radiología e Imágenes Publicado en Diario La Crónica de Hoy (Mexico) y otros medios (Ganar Salud, Reseña Digital, WRadio, Diálogo Ejecutivo,Crónica de Hoy, La Reforma, TV)</p><p><br></p><p>15/07/09.- La solución de Kanteron Systems parece ser robusta y confiable, terminando entre las mejores 3 soluciones encontradas. Los criterios usados fueron Requerimientos Funcionales, Requerimientos Técnicos, Perfil de la Compañía, Procesos de TI (soporte y mantenimiento), así como Costo Total de Propiedad (TCO)</p><p>D.Christopher Dunne – Solutions Architect, Beora Technologies (México)</p><p><br></p><p>04/05/09.- El soporte técnico y la formación de Kanteron Systems (entre otras muchas cosas) son muy buenos.</p><p>Sr. Agustín Zamarro – CT/MR &amp; DEXA Sales Specialist, Radiología S.A. (España)</p><p><br></p><p>08/11/08.-  Kanteron Systems me permite crear centros periféricos, crear policlínicos en otras ciudades… y todo estar bajo el mismo software o bajo el mismo equipamiento. Mi empresa puede crecer con Kanteron Systems tanto como yo quiera o como me permita el mercado.</p><p>D. Jesús Burgos – Gerente, Clínica Encarnación, Málaga (España)</p><p><br></p><p>01/10/08.-  Una herramienta de trabajo muy útil en una consulta de medicina deportiva</p><p>Dr. Cesar Cobián; Presidente de la Asociación Española de Medicos de Equipos de Fútbol (AEMEF) (España)</p><p><br></p><p>15/04/08.-  Gracias. El nuevo software KDS es excelente. Gracias</p><p>Dr. Giovanni Pulitanò – Director U.O. de Medicina Cardiovascular, Policlinico Madonna della Consolazione (Italia)</p><p><br></p><p>08/11/07.- El sistema KDS es una herramienta magnífica para el trabajo diario con técnicas tomográficas (TAC, RM). Me gusta la facilidad de manejo, la rapidez y la versatilidad del sistema KDS. Sistemas como el KDS deberían incorporarse de forma rutinaria en los Servicios de Radiología</p><p>Dr. José Vilar Samper – Presidente del 2º Congreso Internacional de Radiología Torácica y Diagnosis en Patología de Pecho (2009 – España)</p><p><br></p><p>11/11/07.- Las aplicaciones del postproceso [de KDS] son realmente rápidas y útiles. Esto se nota especialmente en las reconstrucciones vasculares de miembros inferiores donde se manejan más de 2000 imágenes y se tarda pocos segundos en conseguirlo. Es una plataforma muy intuitiva. Supongo que se ahorrarán mucho en las instrucciones porque no hacen falta</p><p>Dr. Fernando Bergaz de Hoyoss – Representante Español de Telerradiología de la Sociedad Europea de Telemedicina – Director Médico, Grupo RNS (España)</p><p></p>"
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">29/07/17 Gratamente sorprendido, abrumado</span><p>Dr. Miguel Ramírez Backhaus, Instituto Valenciano de Oncología - IVO (España)</p><p><br></p><p>12/11/16 Una empresa potente y un interesante modelo de negocio</p><p>Omkar P. Kulkarni, MPH, Director, Aceleradora de Innovación Sanitaria TechStars-Cedars-Sinai (USA)</p><p><br></p><p>08/11/16 Kanteron siempre fue un paso por delante</p><p>Fernando Bergaz de Hoyos, CEO, Radiology Network Service RNS (España)</p><p><br></p><p>07/11/16 Impresionante. Repito: Impresionante</p><p>Dr. Ole Pleß, Biomarcadores, Instituto Fraunhofer de Biología Molecular (Alemania)</p><p><br></p><p>27/10/16 Tremendamente impresionante</p><p>Mike Denis, Director de Estrategia de Información, Oxford Academic Health Science Network (Reino Unido)</p><p><br></p><p>01/08/16.- Esta nueva tecnología [la de Kanteron Systems] podría ahorrarle al NHS millones de libras esterlinas cada año.</p><p>Microsoft News Centre (Reino Unido)</p><p><br></p><p>29/06/16.- Kanteron Systems […] hace fácil y rápido el buscar y navegar a través de datos genómicos relevantes.</p><p>Microsoft Genomics (EE. UU.)</p><p><br></p><p>02/05/16.- Fantástica historia y estupenda tecnología con un buen modelo de negocio.</p><p>Ulf Hertin, Director de Proyectos Nórdicos – Médecins Sans Frontières (Suecia)</p><p><br></p><p>01/05/16.- ¡Wow! Fantástico… impresionante.</p><p>Subhasish Ghosh, Consultor Asociado Principal – Amazon Web Services AWS (India)</p><p><br></p><p>01/05/16.- ¡Impresionante e inspirador!</p><p>Pierre Zavattero, Director Comercial – New Vision Display, Inc. (Francia)</p><p><br></p><p>08/03/16.- Es particularmente emocionante ver una solución real [la de Kanteron] en la intersección de tantas disciplinas que han estado históricamente fragmentadas las unas de las otras.</p><p>Florent Saint-Clair, Vicepresidente Ejecutivo – Dicom Systems, Inc. (EE. UU.)</p><p><br></p><p>21/12/15.- [El de Kanteron] ¡¡es un producto fantástico!!</p><p>Sorin Dragomir, Fundador y CEO – Webhippocrates.com (Rumania)</p><p><br></p><p>11/12/15.- ¡Kanteron es una empresa seriamente emocionante y que está cambiando el mundo!</p><p>Elizabeth Varley, Fundadora y CEO – TechHub (Reino Unido)</p><p><br></p><p>26/11/15.- [Kanteron Systems está] ahorrando miles de millones a los sistemas sanitarios, a la vez que salvando millones de vidas.</p><p>Silicon Valley Comes to the UK (Reino Unido)</p><p><br></p><p>06/11/15.- [Kanteron Systems] podría alcanzar los 100 millones de libras de facturación en los próximos tres a cinco años. [Kanteron Systems es una de las] compañías británicas que más probablemente se convertirán en gigantes tecnológicos rivales de Facebook y Google.</p><p>The Guardian (Reino Unido)</p><p><br></p><p>03/11/15.- (…) con Kanteron Systems (…) se obtienen diagnósticos más precisos.</p><p>Antonio Rodríguez, director de Soluciones de Cloud en IBM España, Portugal, Grecia e Israel</p><p><br></p><p>15/09/15.- El futuro de la medicina hoy</p><p>Brian de Francesca, CEO – Ver2 (Emiratos Árabes Unidos)</p><p><br></p><p>02/06/15.- [Kanteron Systems tiene] una plataforma sin precedentes, revolucionaria, que ofrece la más moderna gestión de imagen, así como genómica clínica.</p><p>Dr. Szilard Voros, Fundador y CEO – Global Genomics Group (EE. UU.)</p><p><br></p><p>05/05/15.- [La plataforma de Kanteron] navega de uno a otro [patología digital, imágenes DICOM, y datos genómicos] sin problemas.</p><p>Sean W. Sigmon, Director de Desarrollo de Negocio, Medicina Translacional – Oracle (EE. UU.)</p><p><br></p><p>08/04/15.- Juntos, con nuestra solución conjunta, Kanteron e Hitachi Data Systems pueden mejorar la sanidad y hacer realidad la medicina personalizada y unos diagnósticos más precisos.</p><p>Dave Wilson, Director de Tecnología – Hitachi Data Systems (EE. UU.)</p><p><br></p><p>03/04/15.- La visualización de datos genómicos y su procesamiento e integración en una Historia Clínica Electrónica es algo que nadie en el mercado ofrece hoy en día. Con esta alianza [con Kanteron Systems] everis está haciendo historia en la genómica clínica.</p><p>Mario Chao, socio y Director Global de la práctica de Salud – everis (España)</p><p><br></p><p>08/12/14.- ¡Excelente trabajo!</p><p>Marcelo Fernández, Gestor de Proyectos – IBM (Uruguay)</p><p><br></p><p>17/11/14.- Es un honor conocerles y saber de su visión de medicina personalizada unificando patología, genómica, farmacogenómica, y analytics. Creo que han dado en el clavo de la necesidad y estrategia, y su pasión ejecutiva es inspiradora.</p><p>Tony Zordich, Director General – Business BenchmaRx, Carolina del Norte (EE. UU.)</p><p><br></p><p>21/10/14.- Kanteron fue recomendada a nuestro Consejo de Administración por nuestros analistas IDC</p><p>Gina Zanetti, Directora de Cuentas Estratégicas – GDS International, Nueva York (EE. UU.)</p><p><br></p><p>20/10/14.- Impresionante de verdad.</p><p>Ravi Raju, Director Gestión de Clientes, Plataforma y Productos de Sanidad – TATA Consultancy Services, Bangalore (India)</p><p><br></p><p>Thanks @jorgecortell Of course we follow @kanteron Systems! Your european open source software, mainly for the healthcare community, is WoW!</p><p><br></p><p>— MADrid smART City (@madridsmartcity) October 10, 2014</p><p>25/09/14.- El producto [de Kanteron Systems] es muy interesante.</p><p>Dra. Rivka Colen, Profesora Asociada, Departmento de Radiología Diagnóstica, División de Diagnóstico por Imagen – MD Anderson Cancer Center de la Universidad de Texas, Houston, TX (EE. UU.)</p><p><br></p><p>19/09/14.- No ocurre muy a menudo que una empresa me causa tantísima impresión. Aún estoy alucinado.</p><p>Por la tarde me pasé horas pensando con una sonrisa: imagina el impacto (que va a causar Kanteron Systems) en el sistema de salud mundial,… ¡imagina!</p><p>Han fundado una compañía muy hermosa que realmente destaca.</p><p>JA… ojalá tuviese acciones.</p><p>Job Oude Bekke, Director de Imagen Diagnóstica – Simed International B.V. (Holanda)</p><p>24/06/14.- SPLIT [de Kanteron’s] tiene el enorme potencial de proveer de una forma sencilla de consumir una solución de almacenamiento en nube y compartir datos para sanidad.</p><p>Lisa Banks, Evaluación Corporativa de Tecnología – IBM CHQ, Innovación y Tecnología (EE. UU.)</p><p>31/03/14.- En una sesión remota con el principal patólogo del país y el Jefe de Tecnologías y Servicios Diagnósticos del Ministerio de Salud, la sesión a tres bandas [EEUU-Europa-Africa] funcionó a la perfección.  Vieron el claro potencial de doblar o triplicar su carga de casos de Histología/Citología locales empleando la solución de Kanteron.</p><p>Jeremy Kagan, CEO – MMT Diagnostics LTD (Israel)</p><p>14/03/14.- Aquí hay un potencial enorme.</p><p>Rob Addy, Vicepresidente de Investigación – Gartner, Dartford (Reino Unido)</p><p>16/03/14.- Hoy en día Kanteron Systems tiene el conocimiento más avanzado en Patología Digital, gracias a su enfoque independiente del fabricante del escáner a la hora de diseñar soluciones para gestionar diferentes tipos de imágenes digitales y necesidades de diferentes especialidades. Definitivamente Kanteron Systems va a ser un punto de referencia muy pronto.</p><p>Roberto Ongaro, Asesor principal de eHealth – HIM.IT – Dedalus Group Bolonia (Italia)</p><p><br></p><p>28/02/14.- Estoy muy impresionado con la plataforma tecnológica de Kanteron Systems.</p><p>Dr. Cecil O. Lynch, MS, Profesor Adjunto de Informática para Patología, Facultad de Medicina Davis, Universidad de California (EE. UU.); y Director de Informática Médica, Accenture (EE. UU.)</p><p>28/02/14.- Gracias. El sistema [de Kanteron] ya se está usando en todos nuestros centros y ha tenido una gran acogida. Agradecemos todo el trabajo que el personal [de Kanteron] ha hecho para que cumplamos con las fechas previstas.</p><p>Steve Echols, Director de Marketing en Monticello Diagnostic Imaging, Fort Worth, TX (EE. UU.)</p><p>02/01/14.- [TMIS de Kanteron Systems] va a cambiar el curso de los actuales protocolos de tratamiento. También va a tener profundas implicaciones en términos de clinical staging y histological grading.</p><p>Shagufta Tahir Mufti, Profesor Asociado de Patología Anatómica y Clínica en la Universidad King Abdulaziz (Arabia Saudita)</p><p><br></p><p>10/12/13.- Kanteron Systems hizo una demostración de los enormes pasos que ha dado en la unificación del archivo de los tres elementos “grandes” de datos de pacientes : 1 – Imagen médica 2 – Imagen de patología 3 – Información genética, dentro de una misma plataforma.</p><p>Nadim Michel Daher, Analista Principal – Imágenes Médicas e Informática de Imagenología, y Siddharth Saha, Líder Global de Tecnología Médica Avanzada, Frost &amp; Sullivan, Mountain View, CA (EE. UU.) “Revisión de RSNA 2013: Buscando lo último y lo mejor en la feria más grande de Imagen Médica e Informática de Imagenología“ en la sección “Seleccionando lo más ¡WOW! que encontramos en la feria”.</p><p><br></p><p>06/12/13.- Me fascina vuestro producto y creo que tiene gran potencial.</p><p>Frank Genovese, HIMSS Analytics Consulting, Nueva York, NY (EE. UU.)</p><p><br></p><p>02/12/13.- Increíblemente emocionante. Con TMIS para PD se pueden obtener eficiencias muy elevadas. TMIS para PD sería tremendamente útil para integrar el diagnóstico, tratamiento, seguimiento y adherencia a la medicación.</p><p>Dra. Genevieve Learmonth, Profesora y Asesora de Histo y Cytopathología del NHS (Reino Unido) y la Universidad de Cape Town – Hospital Groote Schuur (Suráfrica)</p><p><br></p><p>29/07/2013.- Nos atrajo el ciclo de desarrollo rápido de Kanteron; y un enfoque que simplifica el manejo de datos del paciente. En lugar de seleccionar un sistema paquetizado, la solución Kanteron ha sido adaptar el sistema a nuestras necesidades, lo que resulta en un producto único que puede ofrecer precisamente lo que los médicos quieren.</p><p>Dr. Paul Marsh – Radiólogo, Monticello Diagnostic Imaging, Fort Worth, Texas (EE. UU.)</p><p><br></p><p>27/07/13.- La integración de imágenes digitales de patología en los sistemas hospitalarios existentes, como PACS y EHR en formato DICOM es algo que sólo los sistemas Kanteron pueden ofrecer hoy en día en el mercado.</p><p>Dr. Gideon Ho – Co-fundador y Director General, HistoIndex (Singapur)</p><p><br></p><p>24/05/13.- Como médico e investigador, soy muy consciente de las necesidades urgentes de los hospitales como el Monte Sinaí para integrar datos. Patología y Laboratorio generan alrededor del 70% de toda la información clínica crítica. Es el momento de migrar a un entorno totalmente digital, donde los patólogos pueden revisar y compartir los casos utilizando imágenes de alta resolución. Los problemas de los últimos años están siendo resueltos por Kanteron, incluyendo imágenes que ahora son fáciles de importar, un sistema que es fácil de navegar, y del que se extraiga el conocimiento y defina las normas. Creemos que Kanteron está en el camino de la implementación exitosa de esta plataforma tan necesaria.</p><p>Dr. Carlos Cordon-Cardo – Profesor y Presidente, Departamento de Patología, Hospital Mount Sinai, Nueva York (EE. UU.)</p><p><br></p><p>16/04/13.- Siendo parte de una red de teleconsulta integrada, eficiente y rápida, como la que Kanteron Systems es capaz de proveer, los pacientes pueden beneficiarse de una atención más rápida y un mayor y mejor diagnóstico en última instancia.</p><p>Dr. Carlos Salazar Lozano – Jefe de Servicios, Dirección Médica, ISSSTE (México)</p><p><br></p><p>26/12/12.- He tenido el placer de colaborar con Kanteron para la creación de un software de radiología muy específico. A través de correos electrónicos y telecomunicaciones, el equipo de diseño de Kanteron ha comprendido rápidamente nuestras necesidades de conformidad legal y extrapolado desde nuestras especificaciones un plugin para Osirix de funcionalidad vital. Kanteron ha sido capaz de desarrollar, versionear, y entregar el producto rápidamente, lo que ha jugado una parte significativa en la validación exitosa y a tiempo de las funciones de nuestro laboratorio de radiología de acuerdo a los estándares 21CFR Parte 11 de la FDA.</p><p>El equipo de Kanteron siempre ha mostrado no sólo profesionalidad en nuestras interacciones sino experiencia suprema en la creación del software que necesitábamos. Han estado disponibles desde España en nuestro horario de trabajo, sin retraso, resultando en una de las mejores experiencias de atención al cliente que he tenido.</p><p>Recomendaría a Kanteron sin reservas y trabajaría con ellos de nuevo a la más mínima oportunidad.</p><p>Director de proyectos de TIC que solicita mantenerse en el anonimato por la naturaleza confidencial del desarrollo a medida que se ha realizado para su organización (EEUU)</p><p><br></p><p>11/08/12.- Decir que “me ha impresionado” lo que está haciendo Kanteron Systems sería quedarse muy corto.</p><p>Sean Murphy, Director de Desarrollo, División de Mejoras Clínicas de el British Medical Journal (Inglaterra)</p><p><br></p><p>13/08/12.- Gracias de nuevo por la inestimable ayuda. Ha sido rápido y eficaz.</p><p>Dr. Jose Manuel Romero, Clínica Equina, Madrid (España)</p><p><br></p><p>11/08/12.- Resulta que estoy en una red wifi con conexión a internet via ADSL, y he podido ver la imagen (PACS de Patología) a una velocidad sorprendentemente elevada.</p><p><br></p><p>17/08/12.- Parece una muy buena implementación. También tienen las imágenes en formatos abiertos, lo que recomiendo.</p><p>Dr. Harold Lance Evans, Miembro (Hematopatología) del University of Maryland Medical Center (EEUU)</p><p><br></p><p>19/06/12.- ¡¡Funciona estupendamente!! Muchas gracias por su ayuda</p><p>Dr. Steve Hopkins, FACS, Sonora Vein Center (California, EEUU)</p><p><br></p><p>12/06/12.- Para nosotros (…) una excelente opción fue KANTERON. Sin arrogancia han logrado dar una respuesta eficiente a la administración de las imágenes diagnósticas. (…) Periódicamente hemos recibido actualizaciones que corrigen algunos de los errores que se han presentado o que introducen las modificaciones que hemos solicitado, esto como usuario y administrador de un departamento de imágenes me da tranquilidad porque es ver en la práctica el soporte que se prometió.</p><p><br></p><p>12/09/11.- Su tecnología [RIS, PACS y KDS de Kanteron Systems] se eligió por ser más avanzada, sólida, adaptable, y abierta que soluciones similares ofrecidas por [otras compañías multinacionales que han solicitado que no se les mencione, incluida a la que Kanteron Systems sustituyó].</p><p>Dr. Luis Felipe Uriza, Director Dept. Radiología, Hospital Universitario San Ignacio, Bogotá (Colombia)</p><p><br></p><p>31/05/12.- Nuestra experiencia con ellos ha sido absolutamente fenomenal, la migración fue sin incidentes, todo parece tan fácil con ellos.</p><p>Mark Large, Director de Sistemas, Great Ormond Street Hospital – NHS, Londres (Reino Unido) publicado en The GuardianBuilding Better HealthcareBBCHealthcare IT NewsE-Health InsiderOpen Health NewseHealth EuropeHospital IT Europe, UK Government Online UK Government OpportunitiesHealthcare Today, y ComputerWeekly interview</p><p><br></p><p>05/09/11.- Desde el primer día Kanteron Systems nos ofrece un excelente servicio técnico y 3 años después seguimos convencidos de que fue la mejor elección.</p><p>D. Juan Antonio Alba, Director Asistencial y de Sistemas, C.H.I.P. Hospital, Málaga (España)</p><p><br></p><p>08/08/11.- [El CloudApp Plug-in de KDS] Es espectacular no solo lo puedo abrir [estudios] en casa sino que también lo puedo abrir en el el iPad.</p><p>Dr. Eduardo P. Eyheremendy, Director Médico de la Fundación HHT, Comisión de Educación de la Sociedad Argentina de Radiología, Universidad de Yale, Consejo de Redacción de la Revista Argentina de Radiología, Hospital Alemán (Argentina)</p><p><br></p><p>18/05/11.- Gracias a Kanteron hemos ahorrado más de 40.000 € en una solución de software dedicado, ya que su solución KDS ofrece características específicas y muy útiles para muchas especialidades, con un coste muy inferior –menos de la sexta parte–.</p><p>Dra. Julia Camps Herrero, Radióloga, Hospital de La Ribera, Valencia (España)</p><p><br></p><p>12/11/10.- Mi objetivo era que a mis clientes estuviesen satisfechos y todos ellos me han dicho que les ha resultado muy útil [el curso que Kanteron Systems ha impartido], es un hecho que se puede contrastar con los cirujanos vasculares de la Sociedad Norte [de Cardiología] de España. Ha sido un placer trabajar con [el técnico de Kanteron Systems], ha sido de gran ayuda, un gran profesional y muy agradable en el trato personal. El feedback que he dado a mi empresa sobre vuestra parte ha sido muy positivo y también el que he recibido yo, por parte de mis clientes, sobre el trabajo de [el técnico de Kanteron Systems]. Ha sido un placer trabajar con vosotros y espero que podamos seguir colaborando en un futuro.</p><p>Mónica Fernández Sales specialist, Aortic Intervention, COOK Spain (Gijón, España)</p><p><br></p><p>12/05/10.- Tienen un producto fantástico.</p><p>Dr. Jack A. Ziffer, FSCCT; Presidente – Sociedad de TAC Cardiovascular – Miami (EEUU)</p><p><br></p><p>22/04/10.- Gracias al empleo de los equipos Kanteron hemos resuelto dos problemas, por un lado el almacenamiento de estudios y por otro el de la telerradiología. Destacar la gran flexibilidad de las estaciones de trabajo, ya que nos permiten realizar operaciones que con estaciones de G.E. o Siemens no nos era posible. Otra ventaja es el desarrollo de soluciones a medida. En nuestro casos ellos [Kanteron Systems] fueron los responsables de configuración de todas las conexiones entre los distintos centros. Además, crearon una aplicación que permite que el médico que solicita la prueba pueda consultarla desde cualquier equipo.</p><p>Dr. Pedro González Cabezas. Médico Nuclear. Red Pet Iberia. Valencia-Sevilla-Alicante-Barcelona (España)</p><p><br></p><p>31/03/10.- Francisco Cortés, director general de Tallard México, anda feliz con el caso de éxito que uno de los integradores del mayorista logró al implantar el sistema completo de Administración, Almacenamiento, Distribución y Postprocesamiento de Imágenes Médicas (PACS/RIS) en el Centro Médico Nacional 20 de Noviembre del ISSSTE. La compañía no deja de publicitar el caso que involucró tecnologías de las empresas Ceurac- Kanteron y Apple.</p><p>Publicado en Infochannel (Mexico)</p><p><br></p><p>Con este sistema esperamos ofrecer, sobre todo, un servicio de diagnóstico más rápido y eficiente a los trabajadores del estado, que son los usuarios de este hospital.</p><p>Dr. Rafael Navarro Meneses, director del nosocomio</p><p><br></p><p>El Gobierno ha invertido mucho en mejorar los servicios médicos para sus derechohabientes y este sistema forma parte de un proyecto más grande que busca, además de agilizar el diagnóstico, reducir nuestras emisiones contaminantes.</p><p>Contar ahora con sistemas completamente digitales para leer resonancias magnéticas, rayos X, mamografías y demás servicios médicos, les ha permitido reducir hasta en 75 % la impresión de placas radiográficas en plata.</p><p>Dra. Julita Orozco Vázquez, titular del área de radiología Publicado en Diario La Reforma (Mexico)</p><p><br></p><p>La implementación exitosa del sistema de Administración de Imágenes Médicas del Centro Médico Nacional 20 de Noviembre, refrenda una vez más el compromiso de las instituciones públicas por ofrecer soluciones reales a las necesidades más importantes de salud de la población mexicana. Esta iniciativa claramente pone al asegurado como centro de atención de los esfuerzos de modernización del ISSSTE</p><p>Dr. Rafael Manuel Navarro Meneses, Director del CMN “20 de Noviembre”</p><p><br></p><p>Existe un importante apoyo diagnóstico oportuno de las lesiones, ya que con el desarrollo del sistema permite el manejo de imágenes, utilizando las herramientas tecnológicas para realizar reconstrucciones en 3D, 4D y 5D o bien endoscopias virtuales, lo que ha permitido en algunos casos cambios de tratamientos sustanciales</p><p>Dra. Julita Orozco, Jefa del Servicio de Radiología e Imágenes Publicado en Diario La Crónica de Hoy (Mexico) y otros medios (Ganar Salud, Reseña Digital, WRadio, Diálogo Ejecutivo,Crónica de Hoy, La Reforma, TV)</p><p><br></p><p>15/07/09.- La solución de Kanteron Systems parece ser robusta y confiable, terminando entre las mejores 3 soluciones encontradas. Los criterios usados fueron Requerimientos Funcionales, Requerimientos Técnicos, Perfil de la Compañía, Procesos de TI (soporte y mantenimiento), así como Costo Total de Propiedad (TCO)</p><p>D.Christopher Dunne – Solutions Architect, Beora Technologies (México)</p><p><br></p><p>04/05/09.- El soporte técnico y la formación de Kanteron Systems (entre otras muchas cosas) son muy buenos.</p><p>Sr. Agustín Zamarro – CT/MR &amp; DEXA Sales Specialist, Radiología S.A. (España)</p><p><br></p><p>08/11/08.-  Kanteron Systems me permite crear centros periféricos, crear policlínicos en otras ciudades… y todo estar bajo el mismo software o bajo el mismo equipamiento. Mi empresa puede crecer con Kanteron Systems tanto como yo quiera o como me permita el mercado.</p><p>D. Jesús Burgos – Gerente, Clínica Encarnación, Málaga (España)</p><p><br></p><p>01/10/08.-  Una herramienta de trabajo muy útil en una consulta de medicina deportiva</p><p>Dr. Cesar Cobián; Presidente de la Asociación Española de Medicos de Equipos de Fútbol (AEMEF) (España)</p><p><br></p><p>15/04/08.-  Gracias. El nuevo software KDS es excelente. Gracias</p><p>Dr. Giovanni Pulitanò – Director U.O. de Medicina Cardiovascular, Policlinico Madonna della Consolazione (Italia)</p><p><br></p><p>08/11/07.- El sistema KDS es una herramienta magnífica para el trabajo diario con técnicas tomográficas (TAC, RM). Me gusta la facilidad de manejo, la rapidez y la versatilidad del sistema KDS. Sistemas como el KDS deberían incorporarse de forma rutinaria en los Servicios de Radiología</p><p>Dr. José Vilar Samper – Presidente del 2º Congreso Internacional de Radiología Torácica y Diagnosis en Patología de Pecho (2009 – España)</p><p><br></p><p>11/11/07.- Las aplicaciones del postproceso [de KDS] son realmente rápidas y útiles. Esto se nota especialmente en las reconstrucciones vasculares de miembros inferiores donde se manejan más de 2000 imágenes y se tarda pocos segundos en conseguirlo. Es una plataforma muy intuitiva. Supongo que se ahorrarán mucho en las instrucciones porque no hacen falta</p><p>Dr. Fernando Bergaz de Hoyoss – Representante Español de Telerradiología de la Sociedad Europea de Telemedicina – Director Médico, Grupo RNS (España)</p>"
         },
         {
           "_inherit": "social-buttons2",
