@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "team.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2443,7 +2443,7 @@
             }
           },
           "title1": "Jorge&nbsp;Cortell",
-          "subtitle1": "Fundador y Director General (Reino Unido)",
+          "subtitle1": "Fundador y Director General 🇬🇧",
           "caption1": "Emprendedor en serie (x8); Oxford (Computing) y MIT (Emprendedurismo); Experto de la Comisión Europea en Inversión Social;<a href=\"https://news.microsoft.com/en-gb/features/one-mans-quest-revolutionise-cancer-treatment/\" target=\"_blank\">&nbsp;Comenzó por amor</a>.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"http://www.linkedin.com/in/jcortell/en\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/jcortell</a> <a data-app-btn=\"true\" href=\"https://twitter.com/jorgecortell\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>@jorgecortell</a>  ",
           "media2": {
@@ -2452,14 +2452,14 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.linkedin.com/in/johnmemarian",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "title2": "John Memarian",
-          "subtitle2": "Presidente y Director Comercial (EE. UU.)",
+          "subtitle2": "Presidente y Director Comercial 🇺🇸",
           "caption2": "Ex: Presidente de Merge (acquirida por IBM por $1B); Ejecutivo en GE; Especialista en McKesson; Director en Leidos; VP en Mach 7; Ejecutivo en Agilent.",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/johnmemarian\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/johnmemarian</a> ",
           "media3": {
@@ -2475,7 +2475,7 @@
             }
           },
           "title3": "Santiago Gala",
-          "subtitle3": "Director de Sistemas (España)",
+          "subtitle3": "Director de Sistemas 🇪🇸",
           "caption3": "Ex: director de IA de la Agencia Espacial Europea; Presidente de Apache Software Foundation (portales); Consultor Telefonica; I+D en Indra.",
           "button3": "<a data-app-btn=\"true\" href=\"https://es.linkedin.com/in/sgala\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/sgala</a> <a data-app-btn=\"true\" href=\"https://twitter.com/gala_santiago\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>/gala_santiago</a> ",
           "media4": {
@@ -2568,7 +2568,7 @@
             }
           },
           "title1": "Luis Alario",
-          "subtitle1": "Director de Desarrollo (España)",
+          "subtitle1": "Director de Desarrollo 🇪🇸",
           "caption1": "Experto en PACS-RIS y HL7.",
           "button1": "<a data-app-btn=\"true\" href=\"http://es.linkedin.com/pub/luis-alario/92/556/440\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/luis-alario</a>",
           "media2": {
@@ -2584,7 +2584,7 @@
             }
           },
           "title2": "Juan Tatay",
-          "subtitle2": "Director de Operaciones (España)",
+          "subtitle2": "Director de Operaciones 🇪🇸",
           "caption2": "MIT (EDP), Cambridge (Ignite); Profesor Invitado.",
           "button2": "<a data-app-btn=\"true\" href=\"http://es.linkedin.com/in/juantatay/es\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/juantatay</a> <a data-app-btn=\"true\" href=\"https://twitter.com/silta_dixIT\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>/juantatay</a>",
           "media3": {
@@ -2599,7 +2599,7 @@
             }
           },
           "title3": "Thomas Vargoczky",
-          "subtitle3": "Director Asia-Pacífico (Australia)",
+          "subtitle3": "Director Asia-Pacífico 🇦🇺",
           "caption3": "Ex: Director Watson Health Imaging; Siemens.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/thomas-vargoczky-0a341030/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/thomas-vargoczky-0a341030</a>",
           "media4": {
@@ -2664,13 +2664,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pablo-600x600.jpg",
+              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/pablo-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "https://www.linkedin.com/in/linuxsystemadministrator/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -2687,14 +2688,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/david-450x450.jpg",
+              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/david-450x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.linkedin.com/in/david-garc%C3%ADa-juan-phd-5206ab10/",
+              "link": "",
               "alt": "David",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media4": {
@@ -2722,13 +2722,13 @@
             }
           },
           "title1": "Pablo Hinojosa",
-          "subtitle1": "Director de Soporte Técnico (España)",
+          "subtitle1": "Director de Soporte Técnico 🇪🇸",
           "caption1": "Más de un lustro de experiencia en soporte técnico.",
           "title2": "Eva Panadero",
-          "subtitle2": "Desarrolladora y Directora de Proyectos (España)",
+          "subtitle2": "Desarrolladora y Directora de Proyectos 🇪🇸",
           "caption2": "Experta en HIS.",
           "title3": "Dr. David García",
-          "subtitle3": "Director de Imagen Médica (España)",
+          "subtitle3": "Director de Imagen Médica 🇪🇸",
           "caption3": "Una década de experiencia en imagen médica.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -2776,19 +2776,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gala-450x450.jpg",
+              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/gala-450x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.linkedin.com/in/gala-egea-ma%C3%B1%C3%B3-09448070/",
+              "link": "https://www.linkedin.com/in/linuxsystemadministrator/",
               "alt": "Gala",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alien-450x450.png",
+              "src": "@PROJECT_PATH@/assets/images/ruben-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2799,14 +2798,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/edwin-600x600.jpg",
+              "src": "file:///Users/jorge/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-06-19_222657/assets/images/edwin-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.linkedin.com/in/edwinsmithvelandia/",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -2834,13 +2833,13 @@
             }
           },
           "title1": "Gala Egea",
-          "subtitle1": "Legal y Regulatorio (España)",
+          "subtitle1": "Legal y Regulatorio 🇪🇸",
           "caption1": "Años de experiencia como abogada.",
-          "title2": "Juan Ramón Mañas",
-          "subtitle2": "Admin. &amp; Marketing (España)",
-          "caption2": "Universidad de Valencia.",
+          "title2": "Rubén Hernandis",
+          "subtitle2": "Desarrollo 🇪🇸",
+          "caption2": "Instituto Nacional de Cyberseguridad.",
           "title3": "Edwin Smith",
-          "subtitle3": "Soporte Técnico (España)",
+          "subtitle3": "Soporte Técnico 🇨🇴",
           "caption3": "Casi una década de experiencia en soporte técnico.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -2852,7 +2851,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/gala-egea-mañó-09448070</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/rhernandis/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/rhernandis</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/edwinsmithvelandia/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/edwinsmithvelandia</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2957,8 +2956,8 @@
               "linkInNewWindow": true
             }
           },
-          "title1": "Dr. Raminderpal Singh",
-          "subtitle1": "Asesor Estratégico (Reino Unido)",
+          "title1": "Dr .Raminderpal Singh",
+          "subtitle1": "Asesor Estratégico 🇬🇧",
           "caption1": "Ex-VP en Eagle Genomics; Inversor en 3iGroup; Director de Estrategia y Desarrollo de Medicina Genómica en IBM Investigación.",
           "button1": "<a data-app-btn=\"true\" href=\"https://uk.linkedin.com/in/raminderpalsingh123\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/raminderpalsingh123</a>",
           "media2": {
@@ -2974,7 +2973,7 @@
             }
           },
           "title2": "Dr. Szilard Voros",
-          "subtitle2": "Asesor Científico-Clínico (EE. UU.)",
+          "subtitle2": "Asesor Científico-Clínico 🇺🇸",
           "caption2": "Fundador y Gerente Global Genomics Group; Prof. A. y Dir. de CT y Reso Cardiovascular en Centro Médico Univ. Estatal de Nueva York Stony Brook.",
           "button2": "<a data-app-btn=\"true\" href=\"https://en.wikipedia.org/wiki/Szilard_Voros\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-wikipedia mbr-iconfont mbr-iconfont-btn\"></span>/Szilard_Voros</a>",
           "media3": {
@@ -2989,8 +2988,8 @@
               "linkInNewWindow": true
             }
           },
-          "title3": "Dr. Manuel Pérez-Alonso",
-          "subtitle3": "Asesor Genómica (España)",
+          "title3": "Dr. Manuel Perez Alonso",
+          "subtitle3": "Asesor Genómica 🇪🇸",
           "caption3": "Director Programa Postgrado de Genómica Clínica Univ. de Valencia; Fundador del Inst. de Medicina Genómica; Editor-jefe Genética Médica News.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/manuelperezalonso/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/manuelperezalonso/</a>",
           "media4": {
@@ -4234,7 +4233,7 @@
             "bgColor": "#fff"
           },
           "text1": "<h3><b>NORTEAMÉRICA:</b></h3><p><br></p><p><b>EE. UU. – INDIANA</b>:<b> <br></b><i>Kanteron Systems USA, Inc.</i></p><p>1005 W. McKay Rd.</p><p>Shelbyville, IN 46176</p><p>Tel: (+1) 773-358-2292</p>",
-          "text2": "<h3>ORIENTE MEDIO:</h3><p><br></p><p><b>ARABIA SAUDÍ, Kuwait, Qatar, Emiratos Árabes Unidos, Oman, Bahrain, Egipto, Jordania y Turquía:&nbsp;</b></p><p><span style=\"font-size: 1.07rem;\"><i>Micro Technology Company (MTC)</i></span></p><p><span style=\"font-size: 1.07rem;\">PO Box 85407<br>Riyadh 11691, Arabia Saudí</span></p><p><br></p>",
+          "text2": "<h3>ORIENTE MEDIO:</h3><p><br></p><p><b>Se anunciará en Enero 2018</b></p><p><br></p><p><br></p>",
           "text3": "<h3><br></h3><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
