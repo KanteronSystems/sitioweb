@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "awardsandmedia.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2788,14 +2788,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/juanra-257x257.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alien-450x450.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.linkedin.com/in/juan-ramón-mañas-salgado-954219158",
-              "alt": "Juan Ramón",
-              "title": "",
-              "linkInNewWindow": true
+              "link": "",
+              "alt": "Ruben",
+              "title": ""
             }
           },
           "media3": {
@@ -2839,7 +2838,7 @@
           "caption1": "Años de experiencia como abogada.",
           "title2": "Juan Ramón Mañas",
           "subtitle2": "Admin. &amp; Marketing (España)",
-          "caption2": "Universidad de Mannheim.",
+          "caption2": "Universidad de Valencia.",
           "title3": "Edwin Smith",
           "subtitle3": "Soporte Técnico (Colombia)",
           "caption3": "Casi una década de experiencia en soporte técnico.",
@@ -2853,7 +2852,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/gala-egea-mañó-09448070</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/juan-ramón-mañas-salgado-954219158<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/edwinsmithvelandia/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/edwinsmithvelandia</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3849,7 +3848,7 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>\"[UNA DE] LAS EMPRESAS QUE MÁS POSIBLEMENTE SE CONVIERTAN EN GIGANTES TECNOLÓGICOS RIVALES DE FACEBOOK Y GOOGLE.\"</p>",
+              "text": "<p>\"[UNA DE] LAS EMPRESAS QUE MÁS POSIBLEMENTE SE CONVIERTAN EN GIGANTES TECNOLÓGICOS ROVALES DE FACEBOOK Y GOOGLE.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/the-guardian-logo-160x160.png",
@@ -3867,21 +3866,21 @@
               "authorBio": ""
             },
             {
-              "text": "<span style=\"font-size: 1.125rem; line-height: 2;\">\"UNO DE LOS POCOS &nbsp;'UNICORNIOS' (START-UPS VALORADAS EN MÁS DE 1.000 MILLONES DE DÓLARES) ESPAÑOLES.\"</span><br>",
+              "text": "<span style=\"font-size: 1.125rem; line-height: 2;\">\"ESTA NUEVA TECNOLOGÍA PODRÍA AHORRAR AL NHS MILLONES DE LIBRAS AL AÑO.\"</span><br>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/icex-160x21.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/microsoft-partner-logo-600x393.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "https://www.icex.es/icex/es/Navegacion-zona-contacto/revista-el-exportador/empresas/REP2018778053.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BS1uCN7QmQ6CA1ukV7F8igg%3D%3D",
-                  "alt": "ICEX",
+                  "link": "",
+                  "alt": "",
                   "title": "",
-                  "linkInNewWindow": true
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "GOBIERNO DE ESPAÑA - ICEX (ESPAÑA)",
+              "authorName": "MICROSOFT NEWS CENTRE (REINO UNIDO)",
               "authorBio": ""
             },
             {
@@ -3990,7 +3989,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Kanteron Systems se convierte en socio tecnológico de Google Cloud para la medicina de precisiónHemos recibido numerosos premios y menciones como:</p><p><br></p><p>2007 Nominación doble al premio Innovador del Año, Wall Street Journal</p><p>2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</p><p>2010 Finalista al premio Mejor Joven Empresario del Año (España)</p><p>2011 Nominación al premio Joven Empresa Innovadora del Año (España)</p><p>2012 Campeón Nacional (España) de los Premios Empresariales Europeos</p><p>2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</p><p>2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</p><p>2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</p><p>2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</p><p>2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</p><p>2013 Innovación del Año (Diario El Mundo)</p><p>2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</p><p>2014 Nominación por el Foro Económico Mundial para Empresa Pionera en Tecnología</p><p>2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</p><p>2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</p><p>2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</p><p>2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</p><p>2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</p><p>2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</p><p>2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</p><p>2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</p><p>2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</p><p>2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</p><p>2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</p><p>2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</p><p>2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</p><p>2016 Premio Digital Health Venture Forum</p><p>2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</p><p>2016 Una de las top 50 startups superestrella de Reino Unido</p><p>2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</p><p>2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</p><p>2017 El Director Gerente de Kanteron es elegido como el \"Mejor CEO de la Industria\"</p><p>2017 Elegidos por Google como Socios Tecnológicos Estratégicos para la Medicina de Precisión</p><p>2017 Nombrados entre los “10 Mejores Proveedores de Soluciones Genómicas”</p><p>2018 Destacados por El Exportador (ICEX - Gobierno de España): <a href=\"https://www.icex.es/icex/es/Navegacion-zona-contacto/revista-el-exportador/empresas/REP2018778053.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BS1uCN7QmQ6CA1ukV7F8igg%3D%3D\" target=\"_blank\">artículo</a> y <a href=\"https://youtu.be/a8qFj9rK7Mg\" target=\"_blank\">vídeo</a></p>"
+          "text": "<p>Kanteron Systems se convierte en socio tecnológico de Google Cloud para la medicina de precisiónHemos recibido numerosos premios y menciones como:</p><p><br></p><p>2007 Nominación doble al premio Innovador del Año, Wall Street Journal</p><p>2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</p><p>2010 Finalista al premio Mejor Joven Empresario del Año (España)</p><p>2011 Nominación al premio Joven Empresa Innovadora del Año (España)</p><p>2012 Campeón Nacional (España) de los Premios Empresariales Europeos</p><p>2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</p><p>2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</p><p>2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</p><p>2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</p><p>2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</p><p>2013 Innovación del Año (Diario El Mundo)</p><p>2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</p><p>2014 Nominación por el Foro Económico Mundial para Empresa Pionera en Tecnología</p><p>2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</p><p>2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</p><p>2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</p><p>2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</p><p>2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</p><p>2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</p><p>2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</p><p>2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</p><p>2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</p><p>2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</p><p>2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</p><p>2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</p><p>2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</p><p>2016 Premio Digital Health Venture Forum</p><p>2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</p><p>2016 Una de las top 50 startups superestrella de Reino Unido</p><p>2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</p><p>2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</p><p>2017 El Director Gerente de Kanteron es elegido como el \"Mejor CEO de la Industria\"</p><p>2017 Elegidos por Google como Socios Tecnológicos Estratégicos para la Medicina de Precisión</p><p>2017 Nombrados entre los “10 Mejores Proveedores de Soluciones Genómicas”</p>"
         },
         {
           "_inherit": "social-buttons2",
