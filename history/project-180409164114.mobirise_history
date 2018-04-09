@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "refsites.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "globalfooter": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 300,
-    "versionPublish": "4.7.0",
+    "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-51273041-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -2547,7 +2547,7 @@
           },
           "title3": "Thomas Vargoczky",
           "subtitle3": "Director Asia-Pacífico (Australia)",
-          "caption3": "Ex: Director Watson Health, Siemens.",
+          "caption3": "Ex: Director Watson Health Imaging; Siemens.",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/thomas-vargoczky-0a341030/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/thomas-vargoczky-0a341030</a>",
           "media4": {
             "image": {
@@ -2675,7 +2675,7 @@
           "subtitle2": "Desarrolladora y Directora de Proyectos (España)",
           "caption2": "Experta en HIS.",
           "title3": "Dr. David García",
-          "subtitle3": "Director de Imagen Médica (Suiza)",
+          "subtitle3": "Director de Imagen Médica (España)",
           "caption3": "Una década de experiencia en imagen médica.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -2723,35 +2723,38 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aldo-337x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gala-450x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://linkedin.com/in/aldomontes",
-              "alt": "Aldo",
-              "title": ""
+              "link": "https://www.linkedin.com/in/gala-egea-ma%C3%B1%C3%B3-09448070/",
+              "alt": "Gala",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/juanra-1-257x257.jpg",
+              "src": "@PROJECT_PATH@/assets/images/juanra-257x257.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "https://www.linkedin.com/in/juan-ramón-mañas-salgado-954219158",
               "alt": "Juan Ramón",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/edwin-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/edwin-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "https://www.linkedin.com/in/edwinsmithvelandia/",
-              "alt": "Edwin",
-              "title": ""
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -2778,9 +2781,9 @@
               "active": true
             }
           },
-          "title1": "Aldo Montes",
-          "subtitle1": "Director Brasil (Brasil)",
-          "caption1": "Ex: VP LATAM MergeIBM, Ejecutivo Agfa, Carestream.",
+          "title1": "Gala Egea",
+          "subtitle1": "Legal y Regulatorio (España)",
+          "caption1": "Años de experiencia como abogada.",
           "title2": "Juan Ramón Mañas",
           "subtitle2": "Admin. &amp; Marketing (España)",
           "caption2": "Universidad de Mannheim.",
@@ -2796,7 +2799,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/aldomontes</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/linuxsystemadministrator/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/gala-egea-mañó-09448070</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/juan-ramón-mañas-salgado-954219158<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/edwinsmithvelandia/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>/edwinsmithvelandia</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -6617,14 +6620,9 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2rem; font-weight: 600; line-height: 1.1;\">EUROPA</span><br></p><p><br></p><p>PORTUGAL:</p><ul><li>Hospital Distrital Da Horta EPE (Horta, Açores Islands)</li></ul><p><br></p><p>ESPAÑA:</p><ul><li>Complejo Hospitalario Integral Privado CHIP (Malaga)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Madre de Dios – Fraternidad Muprespa (Madrid)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Delfos Medical Center (Barcelona): Arvi</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Catalan Institute of Oncology at Durán i Reynals Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Vall d’Hebron University Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Rof. Codina Santiago de Compostela University  (Lugo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Santa María del Rosell (Cartagena)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Fe Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital Clinico de Valencia (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Casa de Salud (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Rivera Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Biomechanics Institute (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">General Hospital of Castellón (Castellón)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Centro Médico Gandía (Alicante)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Albacete General Hospital (Albacete)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Clinica Mansilla (Albacete)</span></li></ul><p><br></p><p>REINO UNIDO KINGDOM</p><p>(bajo acuerdo NHS-Inglaterra):</p><ul><li>Great Ormond Street Hospital – NHS (Londres)</li><li>North Bristol Trust</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Liverpool Heart &amp; Chest Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital of South Manchester</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Guy’s and St Thomas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Newcastle upon Tyne Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Addenbrooke’s Hospital | Cambridge University Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Greater Glasgow and Clyde</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University of Bradford</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plymouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Royal Marsden</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lancashire Care</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Forth Valley</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Portsmouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Salford Royal North</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cumbria University Hospital NHS Trust</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">UCLH – University College London</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Leeds Teaching Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Robert Jones and Agnes Hunt Orthopaedic Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Harrogate District Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospitals Coventry</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Warwickshire</span></li></ul>",
-          "text2": "<h3>LATINOAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">COLOMBIA:</span><br></p><ul><li>Hospital Universitario San Ignacio (Bogotá)</li></ul><p><br></p><p>CHILE:</p><ul><li>ITMS (Santiago)</li></ul><p><br></p><p>ECUADOR:</p><ul><li>Hospital Alcivar (Guayaquil)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Policía National (Guayaquil)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solca (Portoviejo)</span></li></ul><p><br></p><p>MÉXICO:</p><ul><li>ISSSTE Hospital &nbsp;De Alta Especialidad 20 de Noviembre (México DF)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Bicentenario Independencia (Tultitlán)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad “Centenario de la Revolución Mexicana” (Emiliano Zapata-Morelos)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Morelia (Morelia, Mich.)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">IMSS Hospital General Regional Ciudad Madero</span></li></ul><p><br></p><p>PERÚ:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bajo contrato EsSalud:</span><br></p><ul><li>Hospital Carlos Alcántara Butterfield (Lima)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Edgardo Rebagliati (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Guillermo Almenara (La Victoria)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital de Emergencias Grau (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Sabogal (Callao)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional nivel IV Ramiro Priale (Huancayo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Complejo de Hospitales EsSalud (Arequipa)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Lambayeque (Patapo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Clinica Chepén, (La Libertad)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Tacna (Tacna)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Huancavelica (Huancavelica)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Vitarte (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Policlínico Francisco Pizarro (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Angamos (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Cayetano Heredia (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Jorge Reategui Delgado (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Sullana (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Paita (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Talara (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Chachapoyas (Amazonas)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Mario Urteaga (Cajamarca)</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">URUGUAY:</span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ASSE (Montevideo)</span></li></ul>",
-          "text3": "<h3>NORTEAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EE. UU.:</span><br></p><ul><li>ACR – American College of Radiology (Virginia)</li><li>Monticello Diagnostic Imaging (Texas)</li><li>Minkowitz Pathology (Nueva York)</li><li>Imaging End Points (Arizona)</li></ul><h3><br></h3><h3>ÁFRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ETIOPÍA:</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">AMC (Addis Abeba)</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Hospital General Saint Yared (Addis Abeba)</p>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text1": "<p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2rem; font-weight: 600; line-height: 1.1;\">EUROPA</span><br></p><p><br></p><p>PORTUGAL:</p><ul><li>Hospital Distrital Da Horta EPE (Horta, Açores Islands)</li></ul><p><br></p><p>ESPAÑA:</p><ul><li>Complejo Hospitalario Integral Privado CHIP (Malaga)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Madre de Dios – Fraternidad Muprespa (Madrid)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Delfos Medical Center (Barcelona): Arvi</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Catalan Institute of Oncology at Durán i Reynals Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Vall d’Hebron University Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Rof. Codina Santiago de Compostela University  (Lugo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Santa María del Rosell (Cartagena)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Fe Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital Clinico de Valencia (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Casa de Salud (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Rivera Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Biomechanics Institute (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">General Hospital of Castellón (Castellón)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Centro Médico Gandía (Alicante)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Albacete General Hospital (Albacete)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Clinica Mansilla (Albacete)</span></li></ul><p><br></p><p>REINO UNIDO KINGDOM:</p><ul><li>Great Ormond Street Hospital – NHS (Londres)</li></ul><p>Bajo acuerdo NHS-Inglaterra:</p><ul><li>North Bristol Trust</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Liverpool Heart &amp; Chest Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital of South Manchester</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Guy’s and St Thomas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Newcastle upon Tyne Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Addenbrooke’s Hospital | Cambridge University Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Greater Glasgow and Clyde</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University of Bradford</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plymouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Royal Marsden</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lancashire Care</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Forth Valley</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Portsmouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Salford Royal North</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cumbria University Hospital NHS Trust</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">UCLH – University College London</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Leeds Teaching Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Robert Jones and Agnes Hunt Orthopaedic Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Harrogate District Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospitals Coventry</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Warwickshire</span></li></ul>",
+          "text2": "<h3>LATINOAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">COLOMBIA:</span><br></p><ul><li>Hospital Universitario San Ignacio (Bogotá)</li></ul><p><br></p><p>CHILE:</p><ul><li>ITMS (Santiago)</li></ul><p><br></p><p>ECUADOR:</p><ul><li>Hospital Alcivar (Guayaquil)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Policía National (Guayaquil)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solca (Portoviejo)</span></li></ul><p><br></p><p>MÉXICO:</p><ul><li>Hospital &nbsp;De Alta Especialidad 20 de Noviembre (México DF)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital  De Alta Especialidad Bicentenario Independencia (Tultitlán)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital  De Alta Especialidad “Centenario de la Revolución Mexicana” (Emiliano Zapata-Morelos)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital  De Alta Especialidad Morelia (Morelia, Mich.)</span></li></ul><p><br></p><p>PERÚ:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bajo contrato EsSalud:</span><br></p><ul><li>Hospital Carlos Alcántara Butterfield (Lima)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Edgardo Rebagliati (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Guillermo Almenara (La Victoria)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital de Emergencias Grau (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Sabogal (Callao)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional nivel IV Ramiro Priale (Huancayo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Complejo de Hospitales EsSalud (Arequipa)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Lambayeque (Patapo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Clinica Chepén, (La Libertad)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Tacna (Tacna)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Huancavelica (Huancavelica)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Vitarte (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Policlínico Francisco Pizarro (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Angamos (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Cayetano Heredia (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Jorge Reategui Delgado (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Sullana (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Paita (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Talara (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Chachapoyas (Amazonas)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Mario Urteaga (Cajamarca)</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">URUGUAY:</span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ASSE (Montevideo)</span></li></ul>",
+          "text3": "<h3>NORTEAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EE. UU.:</span><br></p><ul><li>ACR – American College of Radiology (Virginia)</li><li>Monticello Diagnostic Imaging (Texas)</li><li>Minkowitz Pathology (Nueva York)</li><li>Imaging End Points (Arizona)</li></ul><h3><br></h3><h3>ÁFRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ETIOPÍA:</span><br></p><p>AMC (Addis Abeba)</p><p>Hospital General Saint Yared (Addis Abeba)</p>"
         },
         {
           "alias": "htmlblock",
