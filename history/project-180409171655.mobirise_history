@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "contact.html",
+    "currentPage": "refsites.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,10 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-51273041-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "Usamos cookies para darle un mejor servicio. Lea nuestra política de <a href='privacidad.html'>privacidad</a> para más info."
+    "cookiesAlert": "Usamos cookies para darle un mejor servicio. Lea nuestra política de <a href='privacidad.html'>privacidad</a> para más info.",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -3279,7 +3282,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gcp-badge-a-01-1x-wbbp1z-410x200.png",
+              "src": "@PROJECT_PATH@/assets/images/gcp_badge_a_01_1x_wbbp1z-410x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4161,7 +4164,7 @@
             "bgColor": "#fff"
           },
           "text1": "<h3><b>EUROPA:</b></h3><p><br></p><p><b style=\"font-size: 1.07rem;\">ESPAÑA – CENTRAL:&nbsp;</b><br></p><p><b>KANTERON SYSTEMS S.L.U.</b></p><p><i>Correo</i>: P.O. Box 123, Puçol 46530 (Valencia)</p><p><i>Ubicación</i>: Calle Espartar 15, Urb. Monasterios – Puçol 46500 <br>Sagunto – Valencia</p><p>Tel: (+34) 963312287</p><p><br></p><p>Oficina de <b>Madrid</b>:</p><p>C/ Almirante, 5 – 3° izda</p><p>28004 Madrid</p><p><br></p><p><b>REINO UNIDO – LONDRES</b>: <br><i>Kanteron Systems UK, Ltd.</i></p><p>Londres</p><p>Tel: (+44) 07736-881820</p>",
-          "text2": "<h3><b>LATINOAMÉRICA</b>:</h3><p><br></p><p><b>BRASIL – SAO PAULO:&nbsp;</b></p><p><i>Kanteron Systems</i></p><p>Sao Paulo, SP - 05642-020</p><p>Tel: (+55) 11 3565 0881</p><p><b><br></b></p><p><b>CHILE – SANTIAGO</b>: <br><a href=\"http://nexomed.cl/\" target=\"_blank\">NexoMed S.p.A.</a></p><p>Santa Magdalena 75 – Of. 810</p><p>Providencia – Santiago</p><p>Tel: +562 23346837</p><p><br></p><p><b>COLOMBIA – BOGOTÁ</b>: <br><i>Kantron Systems</i></p><p><span style=\"font-size: 1.07rem;\">Bogotá&nbsp;</span><br></p><p>Tel: (+57) 300 6304207</p><p><br></p><p><b>PARAGUAY – ASUNCIÓN</b>: <br><a href=\"http://www.comtel.com.py/\" target=\"_blank\">Comtel</a></p><p>Vicepresidente Sánchez 731 c/ Herrera, Asunción</p><p>SAC: +595 21 248 7000</p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">PERÚ – LIMA</b><span style=\"font-size: 1.07rem;\">: <br></span><a href=\"http://soluzioniinternational.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">Soluzioni International</a><br></p><p>Calle Ernesto Plasencia 113 – San Isidro, Lima&nbsp;</p><p>Tel.: (0051 1) 4834633</p>",
+          "text2": "<h3><b>LATINOAMÉRICA</b>:</h3><p><br></p><p><b>CHILE – SANTIAGO</b>: <br><a href=\"http://nexomed.cl/\" target=\"_blank\">NexoMed S.p.A.</a></p><p>Santa Magdalena 75 – Of. 810</p><p>Providencia – Santiago</p><p>Tel: +562 23346837</p><p><br></p><p><b>COLOMBIA – BOGOTÁ</b>: <br><i>Kantron Systems</i></p><p>colombia@kanteron.com</p><p>Av Calle 19 No. 4-71 Ofc 231 Ctro Bta., Bogotá&nbsp;</p><p>Tel: (+57) 300 6304207</p><p><br></p><p><b>PARAGUAY – ASUNCIÓN</b>: <br><a href=\"http://www.comtel.com.py/\" target=\"_blank\">Comtel</a></p><p>Vicepresidente Sánchez 731 c/ Herrera, Asunción</p><p>SAC: +595 21 248 7000</p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">PERÚ – LIMA</b><span style=\"font-size: 1.07rem;\">: <br></span><a href=\"http://soluzioniinternational.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">Soluzioni International</a><br></p><p>Calle Ernesto Plasencia 113 – San Isidro, Lima&nbsp;</p><p>Tel.: (0051 1) 4834633</p>",
           "text3": "<h3><b>ASIA-PACÍFICO:</b></h3><p><br></p><p><span style=\"font-size: 1.07rem;\"><b>AUSTRALIA – SIDNEY</b>: <br><i>Kanteron Systems</i></span><br></p><p><span style=\"font-size: 1.07rem;\">Longueville, NSW 2066</span><br></p><p>Tel: (+61) 413481686</p>",
           "_styles": {
             "P": {
