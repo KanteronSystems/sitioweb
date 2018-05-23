@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700|Merriweather);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
 
 
 
@@ -1021,6 +1023,2476 @@ h6,
 #header3-25 .mbr-section-subtitle {
   text-align: center;
 }
+#custom-html-8o {
+  
+  
+}
+#custom-html-8o * {
+  box-sizing: border-box;
+}
+#custom-html-8o body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-8o .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-8o .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-8o .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-8o .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-8o .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8o .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-8o .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8o .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-8o .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-8o .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-8o .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-8o .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-8o .profileCard__content p {
+  margin: 0;
+}
+#custom-html-8o .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-8o .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-8o .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-8o .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-8o .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-8o .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-8o .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-8o .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-8o .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-8w {
+  
+  
+}
+#custom-html-8w * {
+  box-sizing: border-box;
+}
+#custom-html-8w body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-8w .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-8w .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-8w .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-8w .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-8w .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8w .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-8w .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8w .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-8w .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-8w .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-8w .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-8w .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-8w .profileCard__content p {
+  margin: 0;
+}
+#custom-html-8w .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-8w .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-8w .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-8w .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-8w .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-8w .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-8w .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-8w .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-8w .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-8x {
+  
+  
+}
+#custom-html-8x * {
+  box-sizing: border-box;
+}
+#custom-html-8x body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-8x .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-8x .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-8x .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-8x .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-8x .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8x .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-8x .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8x .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-8x .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-8x .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-8x .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-8x .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-8x .profileCard__content p {
+  margin: 0;
+}
+#custom-html-8x .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-8x .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-8x .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-8x .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-8x .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-8x .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-8x .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-8x .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-8x .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-8y {
+  
+  
+}
+#custom-html-8y * {
+  box-sizing: border-box;
+}
+#custom-html-8y body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-8y .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-8y .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-8y .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-8y .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-8y .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8y .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-8y .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8y .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-8y .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-8y .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-8y .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-8y .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-8y .profileCard__content p {
+  margin: 0;
+}
+#custom-html-8y .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-8y .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-8y .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-8y .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-8y .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-8y .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-8y .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-8y .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-8y .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-8z {
+  
+  
+}
+#custom-html-8z * {
+  box-sizing: border-box;
+}
+#custom-html-8z body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-8z .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-8z .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-8z .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-8z .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-8z .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8z .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-8z .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-8z .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-8z .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-8z .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-8z .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-8z .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-8z .profileCard__content p {
+  margin: 0;
+}
+#custom-html-8z .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-8z .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-8z .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-8z .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-8z .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-8z .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-8z .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-8z .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-8z .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-90 {
+  
+  
+}
+#custom-html-90 * {
+  box-sizing: border-box;
+}
+#custom-html-90 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-90 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-90 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-90 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-90 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-90 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-90 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-90 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-90 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-90 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-90 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-90 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-90 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-90 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-90 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-90 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-90 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-90 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-90 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-90 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-90 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-90 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-90 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-91 {
+  
+  
+}
+#custom-html-91 * {
+  box-sizing: border-box;
+}
+#custom-html-91 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-91 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-91 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-91 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-91 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-91 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-91 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-91 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-91 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-91 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-91 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-91 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-91 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-91 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-91 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-91 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-91 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-91 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-91 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-91 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-91 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-91 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-91 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-92 {
+  
+  
+}
+#custom-html-92 * {
+  box-sizing: border-box;
+}
+#custom-html-92 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-92 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-92 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-92 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-92 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-92 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-92 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-92 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-92 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-92 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-92 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-92 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-92 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-92 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-92 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-92 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-92 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-92 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-92 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-92 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-92 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-92 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-92 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-93 {
+  
+  
+}
+#custom-html-93 * {
+  box-sizing: border-box;
+}
+#custom-html-93 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-93 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-93 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-93 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-93 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-93 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-93 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-93 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-93 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-93 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-93 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-93 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-93 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-93 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-93 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-93 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-93 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-93 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-93 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-93 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-93 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-93 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-93 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-94 {
+  
+  
+}
+#custom-html-94 * {
+  box-sizing: border-box;
+}
+#custom-html-94 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-94 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-94 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-94 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-94 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-94 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-94 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-94 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-94 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-94 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-94 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-94 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-94 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-94 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-94 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-94 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-94 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-94 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-94 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-94 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-94 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-94 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-94 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-95 {
+  
+  
+}
+#custom-html-95 * {
+  box-sizing: border-box;
+}
+#custom-html-95 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-95 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-95 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-95 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-95 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-95 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-95 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-95 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-95 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-95 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-95 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-95 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-95 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-95 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-95 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-95 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-95 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-95 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-95 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-95 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-95 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-95 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-95 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-96 {
+  
+  
+}
+#custom-html-96 * {
+  box-sizing: border-box;
+}
+#custom-html-96 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-96 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-96 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-96 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-96 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-96 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-96 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-96 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-96 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-96 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-96 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-96 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-96 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-96 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-96 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-96 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-96 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-96 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-96 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-96 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-96 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-96 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-96 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-97 {
+  
+  
+}
+#custom-html-97 * {
+  box-sizing: border-box;
+}
+#custom-html-97 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-97 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-97 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-97 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-97 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-97 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-97 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-97 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-97 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-97 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-97 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-97 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-97 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-97 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-97 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-97 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-97 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-97 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-97 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-97 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-97 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-97 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-97 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
 #msg-box8-89 .mbr-section-title,
 #msg-box8-89 p {
   color: #fff;
@@ -1028,6 +3500,576 @@ h6,
 #header3-4j .mbr-section-title,
 #header3-4j .mbr-section-subtitle {
   text-align: center;
+}
+#custom-html-98 {
+  
+  
+}
+#custom-html-98 * {
+  box-sizing: border-box;
+}
+#custom-html-98 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-98 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-98 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-98 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-98 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-98 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-98 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-98 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-98 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-98 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-98 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-98 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-98 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-98 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-98 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-98 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-98 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-98 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-98 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-98 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-98 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-98 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-98 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-99 {
+  
+  
+}
+#custom-html-99 * {
+  box-sizing: border-box;
+}
+#custom-html-99 body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-99 .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-99 .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-99 .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-99 .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-99 .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-99 .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-99 .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-99 .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-99 .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-99 .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-99 .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-99 .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-99 .profileCard__content p {
+  margin: 0;
+}
+#custom-html-99 .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-99 .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-99 .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-99 .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-99 .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-99 .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-99 .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-99 .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-99 .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+#custom-html-9a {
+  
+  
+}
+#custom-html-9a * {
+  box-sizing: border-box;
+}
+#custom-html-9a body {
+  background-color: #fff;
+  padding-top: 100px;
+}
+#custom-html-9a .profileCard {
+  margin: 0 auto;
+  padding-bottom: 60px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative;
+}
+#custom-html-9a .profileCard__imageWrap {
+  background-size: cover;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  transition: height 0.3s ease-in;
+  will-change: height;
+}
+#custom-html-9a .profileCard__imageWrap:before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(51, 51, 51, 0.25);
+  z-index: 1;
+}
+#custom-html-9a .profileCard__location {
+  color: #fff;
+  z-index: 20;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+#custom-html-9a .profileCard__header {
+  text-align: left;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  color: #fff;
+  padding-left: 140px;
+  z-index: 20;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-9a .profileCard__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1.125em;
+  font-family: 'Oswald';
+  font-weight: 400;
+  z-index: 10;
+  position: relative;
+  padding-bottom: 6px;
+}
+#custom-html-9a .profileCard__subTitle {
+  color: #999;
+  font-size: 0.875em;
+  padding-top: 12px;
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  will-change: transform;
+}
+#custom-html-9a .profileCard__thumbWrap {
+  width: 110px;
+  height: 110px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 3px;
+  position: absolute;
+  bottom: -55px;
+  left: 15px;
+  border-radius: 110px;
+  z-index: 10;
+  transition: -webkit-transform 0.3s linear;
+  transition: transform .3s linear;
+  transition: transform 0.3s linear, -webkit-transform 0.3s linear;
+  will-change: transform;
+}
+#custom-html-9a .profileCard__thumb {
+  width: 104px;
+  height: 104px;
+  display: block;
+  border-radius: 84px;
+}
+#custom-html-9a .profileCard__contentWrap {
+  padding-bottom: 0px;
+  min-height: 50px;
+  position: relative;
+}
+#custom-html-9a .profileCard__contentWrap::after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  z-index: 20;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #ffffff transparent;
+  -webkit-transform: translateY(10px);
+  transform: translateY(10px);
+  transition: -webkit-transform 0.3s ease-in;
+  transition: transform 0.3s ease-in;
+  transition: transform 0.3s ease-in, -webkit-transform 0.3s ease-in;
+  margin-left: -10px;
+}
+#custom-html-9a .profileCard__content {
+  padding: 20px 20px 0;
+  text-align: left;
+  line-height: 1.3;
+  font-size: 1em;
+  font-family: sans-serif;
+  font-size: 0.875em;
+  color: #666;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transform: translateY(-10%);
+  transform: translateY(-10%);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+  will-change: transform, opacity;
+  opacity: 0;
+  visibility: hidden;
+}
+#custom-html-9a .profileCard__content p {
+  margin: 0;
+}
+#custom-html-9a .profileCard__social {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+#custom-html-9a .profileCard__socialItem {
+  display: table-cell;
+  text-align: center;
+}
+#custom-html-9a .profileCard__socialLink {
+  color: #999;
+}
+#custom-html-9a .profileCard:hover .profileCard__imageWrap {
+  height: 150px;
+}
+#custom-html-9a .profileCard:hover .profileCard__contentWrap:after {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+}
+#custom-html-9a .profileCard:hover .profileCard__content {
+  max-height: 200px;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
+}
+#custom-html-9a .profileCard:hover .profileCard__thumbWrap {
+  -webkit-transform: translateY(-70%);
+  transform: translateY(-70%);
+}
+#custom-html-9a .profileCard:hover .profileCard__header {
+  -webkit-transform: translateY(-110%);
+  transform: translateY(-110%);
+}
+#custom-html-9a .profileCard:hover .profileCard__subTitle {
+  color: #fff;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
 }
 #social-buttons4-7b .mbr-section-title,
 #social-buttons4-7b .btn-social {
