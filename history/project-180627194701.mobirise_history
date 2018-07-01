@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "index.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "noImageResize": "",
     "globalfooter": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 342,
+    "uniqCompNum": 341,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2929,9 +2929,14 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Instituciones del Gobierno Regional Valenciano (como la <a href=\"http://www.camaravalencia.com/\" target=\"_blank\">Cámara de Comercio</a> o el <a href=\"http://www.ivex.es/\" target=\"_blank\">Instituto Valenciano de la Exportación IVEX</a>), el Gobierno de España (como el <a href=\"http://www.icex.es/\" target=\"_blank\">Instituto Español de Comercio Exterior ICEX</a> o la <a href=\"http://www.enisa.es/\" target=\"_blank\">Empresa Nacional de Innovación ENISA</a>), y la Unión Europea (a través del <a href=\"http://ec.europa.eu/regional_policy/funds/prord/prord_es.htm\" target=\"_blank\">Fondo Europeo de Desarrollo Regional</a>, o el Programa Gateway) han reconocido la importancia, singularidad, potencial, y labor de Kanteron Systems al aceptarla, tras un concienzudo escrutinio, en diversos programas de I+D+i, colaboración y promoción (como el <a href=\"http://www.portalpipe.com/\" target=\"_blank\">PIPE</a>, el <a href=\"http://www.icex.es/icex/cda/controller/pageICEX/0,6558,5518394_5518983_5604470_600818_0_-1,00.html\" target=\"_blank\">Plan de Difusión de la Innovación Empresarial</a>, o el <a href=\"http://www.icex.es/icex/cda/controller/pageICEX/0,6558,5518394_5593081_5657952_0,00.html\" target=\"_blank\">APEX</a>).</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Kanteron Systems es, en la actualidad, la única empresa española de imagen médica digital en el Catálogo de Empresas Fabricantes y Exportadoras de <a href=\"http://www.fenin.es/\" target=\"_blank\">FENIN</a> (Federación Española de Empresas de Tecnología Sanitaria). También es miembro de <a href=\"http://www.vitsalud.es/?miembros=kanteron-systems-s-l-u\" target=\"_blank\">VIT Salud</a>, <a href=\"http://genomicsandhealth.org/partners\" target=\"_blank\">Global Alliance for Genomics and Health</a>, <a href=\"http://www.genomicmedicinealliance.org/\" target=\"_blank\">Genomic Medicine Alliance</a>, <a href=\"http://www.bioval.org/asociados/kanteron/\" target=\"_blank\">BioVal</a>, <a href=\"http://www.iti.es/asociados/nuestros-asociados/index.html\" target=\"_blank\">ITI</a> e&nbsp;</span><a href=\"https://www.ihe.net/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">IHE International</a><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span>Somos <i>Partners Estratégicos de Tecnología</i> de: <b>Google, Microsoft, Amazon, IBM </b>y<b> Hitachi</b>.</p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Instituciones del Gobierno Regional Valenciano (como la <a href=\"http://www.camaravalencia.com/\" target=\"_blank\">Cámara de Comercio</a> o el <a href=\"http://www.ivex.es/\" target=\"_blank\">Instituto Valenciano de la Exportación IVEX</a>), el Gobierno de España (como el <a href=\"http://www.icex.es/\" target=\"_blank\">Instituto Español de Comercio Exterior ICEX</a> o la <a href=\"http://www.enisa.es/\" target=\"_blank\">Empresa Nacional de Innovación ENISA</a>), y la Unión Europea (a través del <a href=\"http://ec.europa.eu/regional_policy/funds/prord/prord_es.htm\" target=\"_blank\">Fondo Europeo de Desarrollo Regional</a>, o el Programa Gateway) han reconocido la importancia, singularidad, potencial, y labor de Kanteron Systems al aceptarla, tras un concienzudo escrutinio, en diversos programas de I+D+i, colaboración y promoción (como el <a href=\"http://www.portalpipe.com/\" target=\"_blank\">PIPE</a>, el <a href=\"http://www.icex.es/icex/cda/controller/pageICEX/0,6558,5518394_5518983_5604470_600818_0_-1,00.html\" target=\"_blank\">Plan de Difusión de la Innovación Empresarial</a>, o el <a href=\"http://www.icex.es/icex/cda/controller/pageICEX/0,6558,5518394_5593081_5657952_0,00.html\" target=\"_blank\">APEX</a>).</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Kanteron Systems es, en la actualidad, la única empresa española de imagen médica digital en el Catálogo de Empresas Fabricantes y Exportadoras de <a href=\"http://www.fenin.es/\" target=\"_blank\">FENIN</a> (Federación Española de Empresas de Tecnología Sanitaria). También es miembro de <a href=\"http://www.vitsalud.es/?miembros=kanteron-systems-s-l-u\" target=\"_blank\">VIT Salud</a>, <a href=\"http://genomicsandhealth.org/partners\" target=\"_blank\">Global Alliance for Genomics and Health</a>, <a href=\"http://www.genomicmedicinealliance.org/\" target=\"_blank\">Genomic Medicine Alliance</a>, <a href=\"http://www.bioval.org/asociados/kanteron/\" target=\"_blank\">BioVal</a>, <a href=\"http://www.iti.es/asociados/nuestros-asociados/index.html\" target=\"_blank\">ITI</a> e&nbsp;</span><a href=\"https://www.ihe.net/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">IHE International</a><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span><br></p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2h",
           "_params": {
             "showImages": true,
             "showTitles": false,
@@ -2940,7 +2945,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2956,66 +2961,87 @@
           },
           "media1": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/hitachisilver-partner-new-274x90.png",
+              "src": "@PROJECT_PATH@/assets/images/global-alliance-600x137.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html/",
-              "alt": "Hitachi partner logo",
+              "link": "http://genomicsandhealth.org/partners",
+              "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
+          "title1": "Global Alliance&nbsp;",
+          "subtitle1": "PACS-RIS",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/microsoft_partner_logo-135x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/microsoft-partner-logo-600x393.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://enterprise.microsoft.com/en-us/articles/industries/health/genomics/partners/",
-              "alt": "Microsoft Partner logo",
+              "link": "https://www.microsoft.com",
+              "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
+          "title2": "DIGITAL PATHOLOGY",
+          "subtitle2": "Vendor neutral dicomizer",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/logo-ibm-business-partner-232x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ibm-600x226.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "https://www.ibm.com",
-              "alt": "IBM",
-              "title": ""
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
+          "title3": "CLINICAL GENOMICS",
+          "subtitle3": "NGS - VCF",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/gcplogo-584x90.png",
+              "src": "@PROJECT_PATH@/assets/images/gcp_badge_a_01_1x_wbbp1z-410x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://cloud.withgoogle.com/partners/detail/?id=CIGAgICAgICtkgE%3D&language=en",
-              "alt": "Google GCP logo",
+              "link": "https://www.google.com/intl/es/cloud/",
+              "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
+          "title4": "PHARMACO-GENOMICS",
+          "subtitle4": "Interactions",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/apn-logo_color_324x89.bf1425dd614dd4d3a8fabc983adcc40144cac14d-325x90.png",
+              "src": "@PROJECT_PATH@/assets/images/awslogo-380x186.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://aws.amazon.com/partners/find/results/?keyword=kanteron",
-              "alt": "Amazon AWS",
+              "link": "https://www.aws.com",
+              "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
+          "title5": "BIG DATA ANALYTICS",
+          "subtitle5": "and Reporting",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/ihelogo-600x163.png",
+              "src": "@PROJECT_PATH@/assets/images/ihelogo-600x163.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3025,35 +3051,10 @@
               "linkInNewWindow": true
             }
           },
-          "title1": "Global Alliance&nbsp;",
-          "subtitle1": "PACS-RIS",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "DIGITAL PATHOLOGY",
-          "subtitle2": "Vendor neutral dicomizer",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "CLINICAL GENOMICS",
-          "subtitle3": "NGS - VCF",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "PHARMACO-GENOMICS",
-          "subtitle4": "Interactions",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "BIG DATA ANALYTICS",
-          "subtitle5": "and Reporting",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "TELEMEDICINE COLLABORATION",
           "subtitle6": "Care Coordination",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-9h"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -3900,9 +3901,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<h3><b>EUROPA:</b></h3><p><br></p><p><b style=\"font-size: 1.07rem;\">ESPAÑA – CENTRAL</b><span style=\"font-size: 1.07rem;\">:</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><br></p><p><b><i>KANTERON SYSTEMS S.L.U.</i></b></p><p><span style=\"font-size: 1.07rem;\">Catedrático Agustín Escardino 9</span></p><p><span style=\"font-size: 1.07rem;\">Parque Científico Universidad de Valencia&nbsp;</span><br></p><p>46980 Paterna – Valencia</p><p>Tel: (+34) 963312287</p><p><br></p><p><b>Madrid</b>:</p><p>C/ Almirante, 5 – 3° izda</p><p>28004 Madrid</p><p><br></p><p><b>REINO UNIDO – MANCHESTER</b>: <br><i>Kanteron Systems UK, Ltd.</i></p><p>GT UK LLP&nbsp;</p><p>4 Hardman Sq. Spinningfields</p><p>Manchester M3 3EB (Reino Unido)</p>",
+          "text1": "<h3><b>EUROPA:</b></h3><p><br></p><p><b style=\"font-size: 1.07rem;\">ESPAÑA – CENTRAL</b><span style=\"font-size: 1.07rem;\">:</span><b style=\"font-size: 1.07rem;\">&nbsp;</b><br></p><p><b><i>KANTERON SYSTEMS S.L.U.</i></b></p><p><span style=\"font-size: 1.07rem;\">Catedrático Agustín Escardino 9</span></p><p><span style=\"font-size: 1.07rem;\">Parque Científico Universidad de Valencia&nbsp;</span><br></p><p>46980 Paterna – Valencia</p><p>Tel: (+34) 963312287</p><p><br></p><p><b>Madrid</b>:</p><p>C/ Almirante, 5 – 3° izda</p><p>28004 Madrid</p><p><br></p><p><b>REINO UNIDO – LONDRES</b>: <br><i>Kanteron Systems UK, Ltd.</i></p><p>Londres</p><p>Tel: (+44) 07736-881820</p>",
           "text2": "<h3><b>SUDAMÉRICA</b>:</h3><p><br></p><p><b>BRASIL – SAO PAULO</b>:<b>&nbsp;</b></p><p><i>Kanteron Systems</i></p><p>Sao Paulo, SP - 05642-020</p><p>Tel: (+55) 11 3565 0881</p><p><b><br></b></p><p><b>CHILE – SANTIAGO</b>: <br><a href=\"http://nexomed.cl/\" target=\"_blank\">NexoMed S.p.A.</a></p><p>Santa Magdalena 75 – Of. 810</p><p>Providencia – Santiago</p><p>Tel: +562 23346837</p><p><br></p><p><b>COLOMBIA – BOGOTÁ</b>: <br><i>Kantron Systems</i></p><p><span style=\"font-size: 1.07rem;\">Bogotá&nbsp;</span><br></p><p>Tel: (+57) 300 6304207</p><p><br></p><p><b>PARAGUAY – ASUNCIÓN</b>: <br><a href=\"http://www.comtel.com.py/\" target=\"_blank\">Comtel</a></p><p>Vicepresidente Sánchez 731 c/ Herrera, Asunción</p><p>SAC: +595 21 248 7000</p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">PERÚ – LIMA</b><span style=\"font-size: 1.07rem;\">: <br></span><a href=\"http://soluzioniinternational.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">Soluzioni International</a><br></p><p>Calle Ernesto Plasencia 113 – San Isidro, Lima&nbsp;</p><p>Tel.: (0051 1) 4834633</p>",
-          "text3": "<h3>NORTEAMÉRICA:</h3><div><br></div><div><span style=\"font-size: 1.07rem;\"><b>EE. UU. – INDIANA</b>:&nbsp;</span><br></div><div><i>Kanteron Systems USA, Inc.</i></div><div>Indianapolis, IN (USA)</div><div>Tel: (+1) 773-358-2292</div><div><br></div><div><b>MÉXICO - DF</b>:&nbsp;</div><div><a href=\"http://reliable.com.mx/\" target=\"_blank\">Reliable S.A. de C.V.</a></div><div>Parque de los Remedios No. 14</div><div>Col. El Parque CP. 53398,</div><div>Naucalpan, Edo. De Mex.</div><div>Tel: 01-55-53587001</div>",
+          "text3": "<h3>NORTEAMÉRICA:</h3><div><br></div><div><span style=\"font-size: 1.07rem;\"><b>EE. UU. – INDIANA</b>:&nbsp;</span><br></div><div><i>Kanteron Systems USA, Inc.</i></div><div>Shelbyville, IN 46176</div><div>Tel: (+1) 773-358-2292</div><div><br></div><div><b>MÉXICO - DF</b>:&nbsp;</div><div><a href=\"http://reliable.com.mx/\" target=\"_blank\">Reliable S.A. de C.V.</a></div><div>Parque de los Remedios No. 14</div><div>Col. El Parque CP. 53398,</div><div>Naucalpan, Edo. De Mex.</div><div>Tel: 01-55-53587001</div>",
           "_styles": {
             "P": {
               "text-align": "left"
