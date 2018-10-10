@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "pharmacogenomics.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "noImageResize": "",
     "globalfooter": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 348,
+    "uniqCompNum": 347,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3298,7 +3298,7 @@
               "title": ""
             }
           },
-          "title3": "MICROSOFT",
+          "title3": "MICROSOfT",
           "subtitle3": "Héroes Digitales <br>en Sanidad 2017",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3334,18 +3334,18 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fs%20award%20small-150x98.png",
+              "src": "@PROJECT_PATH@/assets/images/techtitans-150x98.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://bloges.kanteron.com/2018/10/kanteron-systems-gana-el-premio-2018-frost--sullivan-innovaci%C3%B3n-tecnol%C3%B3gica-global-de-medicina-de-precisi%C3%B3n/",
-              "alt": "Frost&Sullivan",
+              "link": "https://blog.kanteron.com/2018/03/kanteron-systems-officially-one-of-the-30-most-valuable-tech-titans/",
+              "alt": "TechTitans",
               "title": "",
               "linkInNewWindow": true
             }
           },
-          "title6": "FROST&amp;SULLIVAN&nbsp;",
-          "subtitle6": "Innovación Tecnológica Medicina de Precisión 2018",
+          "title6": "I. SUCCESS&nbsp;",
+          "subtitle6": "30 Principales Titanes Tecológicos del Mundo 2018",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
@@ -3497,7 +3497,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Hemos recibido numerosos premios y menciones (absolutamente niguno \"de pago\"), como:</p><p><br></p><p><a href=\"https://blog.kanteron.com/2010/06/kanteron-systems-first-finalist-in-the-national-entrepreneur-of-the-year-award-xxi/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</a><br></p><p><a href=\"https://blog.kanteron.com/2010/11/kanterons-co-founder-and-president-finalist-for-spanish-young-businessman-of-the-year-award/\" target=\"_blank\">2010 Finalista al premio Mejor Joven Empresario del Año (España)</a></p><p><a href=\"https://bloges.kanteron.com/2012/11/kanteron-systems-named-#8220national-champion%238221-and-through-to-final-round-of-european-business-awards/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2012 Campeón Nacional (España) de los Premios Empresariales Europeos</a><br></p><p><a href=\"https://bloges.kanteron.com/2012/10/kanteron-systems-receives-international-business-of-the-year-award-in-seoul/\" target=\"_blank\">2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2012/11/kanteron-systems-awarded-#8220best-clinical-poster-award%238221-at-digital-pathology-association-congress/\" target=\"_blank\">2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2013/03/kanteron-systems-wins-2013-ibm-beacon-award-for-healthcare-and-life-sciences/\" target=\"_blank\">2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</a></p><p><a href=\"https://bloges.kanteron.com/2013/08/jorge-cortell-wins-executive-of-the-year-bronze-award-in-2013-international-business-awards/\" target=\"_blank\">2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2013/08/kanteron-systems-wins-silver-award-company-of-the-year-in-the-10th-annual-international-business-awards/\" target=\"_blank\">2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2014/02/kanteron-systems-recibe-el-premio-#8220innovaci%C3%B3n-del-a%C3%B1o%238221-del-diario-el-mundo/\" target=\"_blank\">2013 Innovación del Año (Diario El Mundo)</a></p><p><a href=\"https://bloges.kanteron.com/2013/12/frost-amp-sullivan-sobre-la-%C3%BAltima-innovaci%C3%B3n-de-kanteron-systems-wow/\" target=\"_blank\">2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</a></p><p><a href=\"https://bloges.kanteron.com/2014/02/de-top-50-a-top-10-en-una-semana-kanteron-systems-en-el-top-10-sanidad-en-crecimiento-de-ranking-de-tr%C3%A1fico-web/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</a><br></p><p><a href=\"https://bloges.kanteron.com/2014/09/informe-el-mercado-global-de-patolog%C3%ADa-digital-crecer%C3%A1-un-11.8-hasta-2018-kanteron-reconocido-como-un-#8220major-player%238221/\" target=\"_blank\">2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2014/09/el-%C3%BAltimo-informe-de-gartner-sobre-tecnolog%C3%ADa-sanitaria-selecciona-a-kanteron-como-proveedor-ejemplar-de-vna/\" target=\"_blank\">2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</a></p><p><a href=\"https://bloges.kanteron.com/2015/03/kanteron-systems-finalista-del-premio-a-la-innovaci%C3%B3n-de-ibm/\" target=\"_blank\">2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</a></p><p><a href=\"https://bloges.kanteron.com/2015/04/un-nuevo-estudio-de-asdreports-destaca-a-kanteron-systems-como-#8220prominent-vendor%238221-en-el-mercado-global-de-patolog%C3%ADa-digital/\" target=\"_blank\">2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/the-telegraph-menciona-a-kanteron-como-posible-futuro-gigante-tecnol%C3%B3gico-rival-de-google-y-facebook/\" target=\"_blank\">2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/seg%C3%BAn-business-insider-kanteron-systems-#8220podr%C3%ADa-ser-un-unicornio-pronto%238221/\" target=\"_blank\">2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/p#038s-market-research-lista-a-kanteron-como-una-de-las-principales-empresas-en-el-mercado-global-de-patolog%C3%ADa-digital/\" target=\"_blank\">2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</a></p><p><a href=\"https://bloges.kanteron.com/2016/02/kanteron-en-el-top-15-de-startups-de-software-analizadas-seg%C3%BAn-la-agencia-de-ratings-earlymetrics/\" target=\"_blank\">2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</a></p><p><a href=\"https://blog.kanteron.com/2017/01/kanteron-systems-featured-in-latest-frost--sullivans-healthcare-report/\" target=\"_blank\">2016 Mencionada en el informe de Frost &amp; Sullivan “Healthcare 2020—Business Model Transformation Guidebook”</a></p><p><a href=\"https://www.digitalhealth.net/2016/02/special-report-picture-archiving-and-communications-systems-2/\" target=\"_blank\">2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</a></p><p><a href=\"https://bloges.kanteron.com/2016/07/kanteron-systems-preseleccionada-en-el-top-10-de-proveedores-de-soluciones-de-imagen-m%C3%A9dica-2016/\" target=\"_blank\">2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</a></p><p><a href=\"https://bloges.kanteron.com/2016/08/kanteron-seleccionada-para-representar-a-la-ue-en-silicon-valley-como-#8220el-pr%C3%B3ximo-unicornio-europeo%238221/\" target=\"_blank\">2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</a></p><p><a href=\"https://bloges.kanteron.com/2016/09/kanteron-gana-el-premio-reto-de-impacto-en-medicina-de-precisi%C3%B3n-del-estado-de-california/\" target=\"_blank\">2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</a></p><p><a href=\"https://bloges.kanteron.com/2016/10/kanteron-seleccionada-entre-las-empresas-de-sanidad-digital-m%C3%A1s-prometedoras/\" target=\"_blank\">2016 Premio Digital Health Venture Forum</a></p><p><a href=\"https://blog.kanteron.com/2016/11/kanteron-systems-selected-among-top-50-uk-scaleups/\" target=\"_blank\">2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</a></p><p><a href=\"https://bloges.kanteron.com/2016/11/kanteron-systems-seleccionada-entre-las-top-50-startups-de-reino-unido/\" target=\"_blank\">2016 Una de las top 50 startups superestrella de Reino Unido</a></p><p><a href=\"https://bloges.kanteron.com/2017/01/kanteron-systems-destacada-en-el-%C3%BAltimo-informe-sobre-sanidad-de-frost--sullivan/\" target=\"_blank\">2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</a></p><p><a href=\"https://www.microsoft.com/es-es/isvnetwork/sanidad.aspx?CollectionId=ee436341-d3ea-47ca-9229-5cef0caed9cf\" target=\"_blank\">2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</a></p><p><a href=\"https://bloges.kanteron.com/2017/08/seg%C3%BAn-un-estudio-kanteron-tiene-el-mejor-ceo-de-la-industria/\" target=\"_blank\">2017 El Director Gerente de Kanteron es elegido como el \"Mejor CEO de la Industria\"</a></p><p><a href=\"https://bloges.kanteron.com/2017/09/kanteron-systems-se-convierte-en-socio-tecnol%C3%B3gico-de-google-cloud-para-la-medicina-de-precisi%C3%B3n/\" target=\"_blank\">2017 Elegidos por Google como Socios Tecnológicos Estratégicos para la Medicina de Precisión</a></p><p><a href=\"https://bloges.kanteron.com/2017/09/kanteron-systems-entre-los-10-mejores-proveedores-de-soluciones-gen%C3%B3micas/\" target=\"_blank\">2017 Nombrados entre los “10 Mejores Proveedores de Soluciones Genómicas”</a></p><p>2018 Destacados por El Exportador (ICEX - Gobierno de España): <a href=\"https://www.icex.es/icex/es/Navegacion-zona-contacto/revista-el-exportador/empresas/REP2018778053.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BS1uCN7QmQ6CA1ukV7F8igg%3D%3D\" target=\"_blank\">artículo</a> y <a href=\"https://youtu.be/a8qFj9rK7Mg\" target=\"_blank\">vídeo</a></p><p><a href=\"https://awards.acq5.com/\" target=\"_blank\">2018 Premios </a><i><a href=\"https://awards.acq5.com/\" target=\"_blank\">Gamechangers</a></i><a href=\"https://awards.acq5.com/\" target=\"_blank\">, Empresa de Informática Biomédica Internacional del Año</a></p><p><a href=\"https://awards.acq5.com/\" target=\"_blank\">2018 Premios </a><i><a href=\"https://awards.acq5.com/\" target=\"_blank\">Gamechangers</a></i><a href=\"https://awards.acq5.com/\" target=\"_blank\">, Gamechanger Internacional del Año, Kanteron Systems CEO Jorge Cortell</a></p><p><a href=\"https://blog.kanteron.com/2018/03/kanteron-systems-officially-one-of-the-30-most-valuable-tech-titans/\" target=\"_blank\">2018 Insightssuccess \"Los 30 Titanes Tecnológicos Más Valiosos\"</a></p><p><a href=\"https://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html\" target=\"_blank\">2018 Artículo a página completa en el diario generalista de mayor tirada de España: El País</a></p><p><a href=\"https://bloges.kanteron.com/2018/07/kanteron-entre-los-10-proveedores-de-soluciones-tecnol%C3%B3gicas-de-sanidad-m%C3%A1s-innovadores-2018/\" target=\"_blank\">2018 InsightsCare “Los 10 Proveedores de Soluciones Tecnológicas Para Sanidad Más Innovadores”</a></p><p><a href=\"https://insightscare.com/the-20-most-influential-leaders-healthcare-2018-august2018/\" target=\"_blank\">2018 InsightsCare “Los 20 Líderes Más Influyentes en Sanidad 2018\", Kanteron Systems CEO Jorge Cortell</a></p><p><a href=\"https://bloges.kanteron.com/2018/07/el-director-de-kanteron-systems-elegido-entre-los-30-ejecutivos-m%C3%A1s-creativos-del-mundo/\" target=\"_blank\">2018 Mirror Review \"Los 30 Ejecutivos Más Creativos\"</a></p><p><a href=\"https://bloges.kanteron.com/2018/10/kanteron-systems-gana-el-premio-2018-frost--sullivan-innovaci%C3%B3n-tecnol%C3%B3gica-global-de-medicina-de-precisi%C3%B3n/\" target=\"_blank\">2018 Frost &amp; Sullivan Premio a la Innovación Tecnológica en Medicina de Precisión</a></p><p><br></p>"
+          "text": "<p>Hemos recibido numerosos premios y menciones (absolutamente niguno \"de pago\"), como:</p><p><br></p><p><a href=\"https://blog.kanteron.com/2010/06/kanteron-systems-first-finalist-in-the-national-entrepreneur-of-the-year-award-xxi/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2010 Emprendedor del Año en España y 2010 Empresa con Mayor Potencial de Crecimiento en España</a><br></p><p><a href=\"https://blog.kanteron.com/2010/11/kanterons-co-founder-and-president-finalist-for-spanish-young-businessman-of-the-year-award/\" target=\"_blank\">2010 Finalista al premio Mejor Joven Empresario del Año (España)</a></p><p><a href=\"https://bloges.kanteron.com/2012/11/kanteron-systems-named-#8220national-champion%238221-and-through-to-final-round-of-european-business-awards/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2012 Campeón Nacional (España) de los Premios Empresariales Europeos</a><br></p><p><a href=\"https://bloges.kanteron.com/2012/10/kanteron-systems-receives-international-business-of-the-year-award-in-seoul/\" target=\"_blank\">2012 Medalla de Bronce a la Empresa del Año en los Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2012/11/kanteron-systems-awarded-#8220best-clinical-poster-award%238221-at-digital-pathology-association-congress/\" target=\"_blank\">2012 “Premio al Mejor Poster Clínico” en el Congreso de la Asociación de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2013/03/kanteron-systems-wins-2013-ibm-beacon-award-for-healthcare-and-life-sciences/\" target=\"_blank\">2013 IBM Beacon Award a la mejor solución, Healthcare and Life Sciences</a></p><p><a href=\"https://bloges.kanteron.com/2013/08/jorge-cortell-wins-executive-of-the-year-bronze-award-in-2013-international-business-awards/\" target=\"_blank\">2013 Medalla de Bronce al Ejecutivo del Año Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2013/08/kanteron-systems-wins-silver-award-company-of-the-year-in-the-10th-annual-international-business-awards/\" target=\"_blank\">2013 Medalla de Plata a la Empresa del Año Premios Empresariales Internacionales</a></p><p><a href=\"https://bloges.kanteron.com/2014/02/kanteron-systems-recibe-el-premio-#8220innovaci%C3%B3n-del-a%C3%B1o%238221-del-diario-el-mundo/\" target=\"_blank\">2013 Innovación del Año (Diario El Mundo)</a></p><p><a href=\"https://bloges.kanteron.com/2013/12/frost-amp-sullivan-sobre-la-%C3%BAltima-innovaci%C3%B3n-de-kanteron-systems-wow/\" target=\"_blank\">2013 Frost &amp; Sullivan “Select WOW! Findings from the 2013 RSNA Showfloor”</a></p><p><a href=\"https://bloges.kanteron.com/2014/02/de-top-50-a-top-10-en-una-semana-kanteron-systems-en-el-top-10-sanidad-en-crecimiento-de-ranking-de-tr%C3%A1fico-web/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">2014 Top 10 (Sanidad) en Crecimiento de Tráfico Web</a><br></p><p><a href=\"https://bloges.kanteron.com/2014/09/informe-el-mercado-global-de-patolog%C3%ADa-digital-crecer%C3%A1-un-11.8-hasta-2018-kanteron-reconocido-como-un-#8220major-player%238221/\" target=\"_blank\">2014 Markets&amp;Markets “Major player” en el mercado de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2014/09/el-%C3%BAltimo-informe-de-gartner-sobre-tecnolog%C3%ADa-sanitaria-selecciona-a-kanteron-como-proveedor-ejemplar-de-vna/\" target=\"_blank\">2014 Gartner “Hype Cycle for Healthcare Providers Technologies and Standards”</a></p><p><a href=\"https://bloges.kanteron.com/2015/03/kanteron-systems-finalista-del-premio-a-la-innovaci%C3%B3n-de-ibm/\" target=\"_blank\">2015 Finalistas Premio “Innovación en el Modelo de Negocio”, Ecosistema IBM: Cumbre de Liderazgo</a></p><p><a href=\"https://bloges.kanteron.com/2015/04/un-nuevo-estudio-de-asdreports-destaca-a-kanteron-systems-como-#8220prominent-vendor%238221-en-el-mercado-global-de-patolog%C3%ADa-digital/\" target=\"_blank\">2015 ASDReports “Prominent Vendor” en el Mercado Global de Patología Digital</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/the-telegraph-menciona-a-kanteron-como-posible-futuro-gigante-tecnol%C3%B3gico-rival-de-google-y-facebook/\" target=\"_blank\">2015 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK – The Guardian</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/seg%C3%BAn-business-insider-kanteron-systems-#8220podr%C3%ADa-ser-un-unicornio-pronto%238221/\" target=\"_blank\">2015 Kanteron Systems “podría ser pronto un unicornio” según Business Insider UK</a></p><p><a href=\"https://bloges.kanteron.com/2015/11/p#038s-market-research-lista-a-kanteron-como-una-de-las-principales-empresas-en-el-mercado-global-de-patolog%C3%ADa-digital/\" target=\"_blank\">2015 P&amp;S Market Research lista a Kanteron como una de las principales empresas en el mercado global de patología digital</a></p><p><a href=\"https://bloges.kanteron.com/2016/02/kanteron-en-el-top-15-de-startups-de-software-analizadas-seg%C3%BAn-la-agencia-de-ratings-earlymetrics/\" target=\"_blank\">2016 Top 15% de startups de software analizadas según la agencia de ratings EarlyMetrics</a></p><p><a href=\"https://blog.kanteron.com/2017/01/kanteron-systems-featured-in-latest-frost--sullivans-healthcare-report/\" target=\"_blank\">2016 Mencionada en el informe de Frost &amp; Sullivan “Healthcare 2020—Business Model Transformation Guidebook”</a></p><p><a href=\"https://www.digitalhealth.net/2016/02/special-report-picture-archiving-and-communications-systems-2/\" target=\"_blank\">2016 Mencionada en el Informe Especial de PACS de DigitalHealth.net junto a GE, Agfa, Carestream y Sectra</a></p><p><a href=\"https://bloges.kanteron.com/2016/07/kanteron-systems-preseleccionada-en-el-top-10-de-proveedores-de-soluciones-de-imagen-m%C3%A9dica-2016/\" target=\"_blank\">2016 Preseleccionada en el Top 10 de Proveedores de Soluciones de Imagen Médica 2016</a></p><p><a href=\"https://bloges.kanteron.com/2016/08/kanteron-seleccionada-para-representar-a-la-ue-en-silicon-valley-como-#8220el-pr%C3%B3ximo-unicornio-europeo%238221/\" target=\"_blank\">2016 Seleccionada por la Comisión Europea como Top Scaleup Europea y Próximo Unicornio Europeo</a></p><p><a href=\"https://bloges.kanteron.com/2016/09/kanteron-gana-el-premio-reto-de-impacto-en-medicina-de-precisi%C3%B3n-del-estado-de-california/\" target=\"_blank\">2016 Premio del Estado de California al Mayor Impacto en Medicina de Precisión</a></p><p><a href=\"https://bloges.kanteron.com/2016/10/kanteron-seleccionada-entre-las-empresas-de-sanidad-digital-m%C3%A1s-prometedoras/\" target=\"_blank\">2016 Premio Digital Health Venture Forum</a></p><p><a href=\"https://blog.kanteron.com/2016/11/kanteron-systems-selected-among-top-50-uk-scaleups/\" target=\"_blank\">2016 Miembros del “ScaleUpClub” de Silicon Valley Comes to UK</a></p><p><a href=\"https://bloges.kanteron.com/2016/11/kanteron-systems-seleccionada-entre-las-top-50-startups-de-reino-unido/\" target=\"_blank\">2016 Una de las top 50 startups superestrella de Reino Unido</a></p><p><a href=\"https://bloges.kanteron.com/2017/01/kanteron-systems-destacada-en-el-%C3%BAltimo-informe-sobre-sanidad-de-frost--sullivan/\" target=\"_blank\">2016 Destacada en el informe “Healthcare 2020—Business Model Transformation Guidebook” de Frost &amp; Sullivan</a></p><p><a href=\"https://www.microsoft.com/es-es/isvnetwork/sanidad.aspx?CollectionId=ee436341-d3ea-47ca-9229-5cef0caed9cf\" target=\"_blank\">2017 Nombrada por Microsoft como \"Héroes Digitales\" en Sanidad</a></p><p><a href=\"https://bloges.kanteron.com/2017/08/seg%C3%BAn-un-estudio-kanteron-tiene-el-mejor-ceo-de-la-industria/\" target=\"_blank\">2017 El Director Gerente de Kanteron es elegido como el \"Mejor CEO de la Industria\"</a></p><p><a href=\"https://bloges.kanteron.com/2017/09/kanteron-systems-se-convierte-en-socio-tecnol%C3%B3gico-de-google-cloud-para-la-medicina-de-precisi%C3%B3n/\" target=\"_blank\">2017 Elegidos por Google como Socios Tecnológicos Estratégicos para la Medicina de Precisión</a></p><p><a href=\"https://bloges.kanteron.com/2017/09/kanteron-systems-entre-los-10-mejores-proveedores-de-soluciones-gen%C3%B3micas/\" target=\"_blank\">2017 Nombrados entre los “10 Mejores Proveedores de Soluciones Genómicas”</a></p><p>2018 Destacados por El Exportador (ICEX - Gobierno de España): <a href=\"https://www.icex.es/icex/es/Navegacion-zona-contacto/revista-el-exportador/empresas/REP2018778053.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BS1uCN7QmQ6CA1ukV7F8igg%3D%3D\" target=\"_blank\">artículo</a> y <a href=\"https://youtu.be/a8qFj9rK7Mg\" target=\"_blank\">vídeo</a></p><p><a href=\"https://awards.acq5.com/\" target=\"_blank\">2018 Premios </a><i><a href=\"https://awards.acq5.com/\" target=\"_blank\">Gamechangers</a></i><a href=\"https://awards.acq5.com/\" target=\"_blank\">, Empresa de Informática Biomédica Internacional del Año</a></p><p><a href=\"https://awards.acq5.com/\" target=\"_blank\">2018 Premios </a><i><a href=\"https://awards.acq5.com/\" target=\"_blank\">Gamechangers</a></i><a href=\"https://awards.acq5.com/\" target=\"_blank\">, Gamechanger Internacional del Año, Kanteron Systems CEO Jorge Cortell</a></p><p><a href=\"https://blog.kanteron.com/2018/03/kanteron-systems-officially-one-of-the-30-most-valuable-tech-titans/\" target=\"_blank\">2018 Insightssuccess \"Los 30 Titanes Tecnológicos Más Valiosos\"</a></p><p><a href=\"https://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html\" target=\"_blank\">2018 Artículo a página completa en el diario generalista de mayor tirada de España: El País</a></p><p><a href=\"https://bloges.kanteron.com/2018/07/kanteron-entre-los-10-proveedores-de-soluciones-tecnol%C3%B3gicas-de-sanidad-m%C3%A1s-innovadores-2018/\" target=\"_blank\">2018 InsightsCare “Los 10 Proveedores de Soluciones Tecnológicas Para Sanidad Más Innovadores”</a></p><p><a href=\"https://insightscare.com/the-20-most-influential-leaders-healthcare-2018-august2018/\" target=\"_blank\">2018 InsightsCare “Los 20 Líderes Más Influyentes en Sanidad 2018\", Kanteron Systems CEO Jorge Cortell</a></p><p><a href=\"https://bloges.kanteron.com/2018/07/el-director-de-kanteron-systems-elegido-entre-los-30-ejecutivos-m%C3%A1s-creativos-del-mundo/\" target=\"_blank\">2018 Mirror Review \"Los 30 Ejecutivos Más Creativos\"</a></p><p><a href=\"https://ww2.frost.com/event/calendar/2018-excellence-awards-san-antonio/?eID=1823\" target=\"_blank\">2018 Frost &amp; Sullivan Premio a la Innovación Tecnológica en Medicina de Precisión</a></p><p><br></p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -4581,7 +4581,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Si su sistema actual no soporta la funcionalidad de Patología Digital (o no permite la conversión de imágenes WSI de patología digital en DICOM), Kanteron Systems le propone emplear nuestro módulo que dispone de:</p><p><br></p><ul><li>Visor de Muestras Patología (WSI)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Filtrado por fecha, nombre y apellido, número de historia clínica (EHR), tipo de muestra (WSI), leído / informado / revisado …</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Herramientas: zoom (ampliación), escala, medir, exportar, miniaturas de navegación, pan (desplazamiento), anotaciones, rotar, comparar dos WSI …</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Realización de informes y visualización</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sistema de almacenamiento permitiendo a centros remotos subir muestras (WSI) al PACS</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Gestión de muestras: carga, conversión a formato (DICOM y/u otros), entrada de metadatos, disponibilidad en el PACS</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solución completa de flujo de trabajo: Listas de trabajo, informes, integración HIS-LIS, colaboración en tiempo real y asíncrona (voz, texto, pantalla)</span></li></ul>"
+          "text": "<p>Si su sistema actual no soporta la funcionalidad de Patología Digital (o no permite la conversión de imágenes WSI de patología digital en DICOM), Kanteron Systems le propone emplear nuestro módulo que dispone de:</p><p><br></p><ul><li>Visor de Muestras Patología (WSI)</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Filtrado por fecha, nombre y apellido, número de historia clínica (EHR), tipo de muestra (WSI), leído / informado / revisado …</span></li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Herramientas: zoom (ampliación), escala, medir, exportar, miniaturas de navegación, pan (desplazamiento), anotaciones, rotar, comparar dos WSI …</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Realización de informes y visualización</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sistema de almacenamiento permitiendo a centros remotos subir muestras (WSI) al PACS</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Gestión de muestras: carga, conversión a formato (DICOM y/u otros), entrada de metadatos, disponibilidad en el PACS</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solución completa de flujo de trabajo: Listas de trabajo, informes, integración HIS-LIS, colaboración en tiempo real y asíncrona (voz, texto, pantalla)</span></li></ul>"
         },
         {
           "_inherit": "social-buttons2",
@@ -4938,380 +4938,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showIcons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenqa-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "QA",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenreports-600x418.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Informado",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenannotation-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Anotación",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenvariantsfilters-600x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Filtrado",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title": "MOBIRISE FEATURES",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "title1": "Control de Calidad",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Asegúrese de que sus secuencias cumplen sus criterios de QA.",
-          "title2": "Informado",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Herramienta sde informado integradas. Más allá de &nbsp;una *ómica u *ología, para una verdadera Medicina de Precisión.",
-          "title3": "Anotación",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Anotación manual o automática y curación de variantes.",
-          "title4": "Filtrado",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Filtrado genómico Interactivo y en tiempo real.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "media1_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media1_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media2_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media3_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media4_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media5_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "dribbble",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "media6_4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "linkedin",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000",
-              "family": "socicon"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extFeatures7",
-          "_anchor": "extFeatures7-9n"
+          "_name": "image1",
+          "_anchor": "image1-4u",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/genomics-1400x544.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Clinical Genomics solution"
         },
         {
           "_tags": [
@@ -5324,7 +4973,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">Kanteron trabaja con los estándares actuales que reducen las barreras para traducir el conocimiento genómico a la práctica clínica mediante:</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem;\">* Proporcionar integración genética de datos genómicos y genéticos en EMR (HCE), HIS y LIMS para laboratorios locales y externos siguiendo las especificaciones genéticas&nbsp;<a href=\"http://www.hl7.org/Special/committees/clingenomics/index.cfm\" target=\"_blank\">HL7</a>’s <a href=\"http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343\" target=\"_blank\">FHIR</a></span><br></p><p><span style=\"font-size: 1.07rem;\">* Permitir la navegación en tiempo real a través de características genómicas que representan diferentes tipos de datos sobre muchos tipos de información genómica</span></p><p><span style=\"font-size: 1.07rem;\">* Importar datos y archivos NGS (FASTQ, BAM, VCF, GFF, BED ...), procesarlos y visualizar los resultados, y generar informes en cualquier navegador</span></p><p><span style=\"font-size: 1.07rem;\">* Facilitación de la curación de variantes y la anotación clínica para la revisión histórica y la creación de una base de conocimientos genómica local</span></p><p><span style=\"font-size: 1.07rem;\">* Integración con eCRF o CDM para ensayos clínicos</span></p>"
+          "text": "<p>Si su sistema actual de PACS-VNA-EHR no soporta datos de Genómica, Kanteron Systems le propone emplear nuestro módulo que dispone de:</p><p><br></p><p>Un navegador de genoma en 2D y en 3D via web de nueva generación</p><ul><li>Navegación en tiempo real a través de los cromosomas y los cariotipos, representando diferente tipos de datos de muchos tipos de información genómica</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Los datos se representa utilizando SVG directamente del lado del cliente. No se generan imágenes en el servidor y se envían al cliente (lo que significa un servidor de datos más rápido y datos más cacheables)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Numerosas pistas preconfiguradas tales como los genes, transcripciones, SNPs, mutaciones, objetivos de miARN, TFBS, etc</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Escrito en Javascript, hace uso de estándares abiertos como HTML5 o CSS3</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Zero-footprint: funciona en cualquier navegador web moderno sin la instalación de ningún plug-in Flash , Java Applet o cualquier otra cosa</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Muy rápido, desplazamiento suave y respuesta dinámica a las peticiones del usuario</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Utilice archivos locales o remotos, servidores DAS o cualquier otro adaptador de datos a través de servicios web</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Importación de datos y archivos de NGS (BAM, VCF, GFF, BED…)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Exportar datos en formato JSON</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Permite seleccionar áreas de la secuenciación y hacer zoom para visualizar histogramas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Búsqueda de genes, SNPs, variaciones, exomas y transcriptomas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Permite ampliar la información de una posición concreta</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Permite cargar y trabajar con cellbase y DAS</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Historial de posiciones revisadas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Descargar a secuenciación en raw (.ban) para verlo en el visor de preferencia</span></li></ul><p><br></p><p>Módulo de visualización y generación de informes</p><p><br></p><p>Integración with EHR (Electronic Medical Records – Historias Electrónicas) para Genómica Clínica</p><p><br></p><p>Integración con LIMS (Laboratory Information Management Systems – Sistemas de Laboratorio) para Laboratorios internos o externos</p><p><br></p><p>Integración con eCRF o CDM para Ensayos Clínicos</p><p><br></p><p>Anotación</p><p><br></p><p>Colaboración</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -5689,11 +5338,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenpgx-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pharmacogenomics-1400x544.png",
               "width": 1400,
               "link": "",
-              "alt": "Farmacogenómica",
-              "title": ""
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -5702,7 +5352,7 @@
           "_params": {
             "showText": true
           },
-          "text": "Farmacogenómica para la prevención de eventos adversos en medicación, y aplcación de Medicina de Precisión en el punto de atención"
+          "text": "Pharmacogenomics for adverse medication event prevention, and Precision Medicine application at the point of care"
         },
         {
           "_tags": [
@@ -5715,7 +5365,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Si su sistema actual de PACS-VNA-EMR no soporta Farmacogenómica, Kanteron Systems le propone emplear nuestro módulo que dispone de:</p><p><br></p><ul><li>Incorpora fuentes de datos de interacción medicamento-gen que anteriormente solo estaban disponibles en formatos inaccesibles (por ejemplo, tablas en un documento PDF), implementando las principales bases de datos de farmacogenómica (como PharmGKB, CGI, DGIdb, OpenTargets ...)</li><li>Permite al usuario refinar su consulta a ciertas familias de genes, tipos de interacciones, clases de fármacos, etc</li><li>Proporciona módulos para agregar en el EMR (Historial Médica Electrónica) la integración de las interacciones conocidas entre genes y los datos genéticos potencialmente aptos para el fármaco con los antecedentes genéticos del paciente para mejorar la atención clínica&nbsp;</li><li>Admite diferentes niveles de advertencia en el EMR para interacciones farmacológicas / variantes genómicas</li><li>Ayuda a agregar y curar sus propios datos, y anota genes de interés con respecto a las interacciones conocidas de fármaco-gen y la capacidad potencial del medicamento</li></ul>"
+          "text": "<p>Si su sistema actual de PACS-VNA-EHR no soporta Farmacogenómica, Kanteron Systems le propone emplear nuestro módulo que dispone de:</p><p><br></p><ul><li>Ayuda &nbsp;para describir los genes de interés con respecto a las interacciones conocidas de genes-medicamentos y la potencial farmacobilidad</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Utiliza símbolos oficiales de genes HUGO según lo informado por Entrez Gene, junto a una estrategia de agrupación de nombrado de genes que intenta agregar sinónimos para cada gen con nombres adicionales de cada fuente de datos de sinónimos conocidos (Ensembl ID, Uniprot ID, etc )</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Añada sus propios datos</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">“Nivel de fiabilidad de la fuente”: a cada fuente se le asigna uno de los dos niveles de confianza: ‘Curada por expertos’ o ‘No curada’. Las fuentes ‘Curadas por expertos’ han sido examinadas manualmente por expertos. Las fuentes ‘No curadas’ fueron importadas de forma automática de la fuente primaria utilizando un módulo de importador (es decir, una secuencia de comandos). Dentro de cada uno de los dos niveles de confianza clasificamos adicionalmente cada fuente según una evaluación adicional de calidad. Los resultados se ordenan para favorecer los datos ‘Curados por expertos’ y por el rango de calidad dentro de esas fuentes</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">‘Categoría de Gen’: una serie de genes que pertenecen a un grupo que se considera como potencialmente medicable</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">‘Tipo de Interacción‘ describe la naturaleza de la asociación entre un gen y medicamento en particular (‘inhibidor’, ‘resistencia’, ‘sensibilidad’… )</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Integra ambas interacciones conocidas: gen-medicamento y datos de genes potencialmente medicables</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Permite al usuario refinar su consulta a ciertas familias de genes, tipos de interacciones, clases de fármacos, etc</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Incorpora fuentes de datos de interacción gen-medicamento que antes sólo estaban disponibles en formatos inaccesibles (por ejemplo, tablas de un documento PDF)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Búsqueda de interacciones gen-medicamento de genes que tienen interacciones directas gen-gen con el gen en cuestión</span></li></ul>"
         },
         {
           "_inherit": "social-buttons2",
