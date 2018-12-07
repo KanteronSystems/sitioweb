@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "othermodules.html",
+    "currentPage": "awardsandmedia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,12 +26,15 @@
     "noImageResize": "",
     "globalfooter": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 367,
+    "uniqCompNum": 352,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-51273041-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "Aviso:\r\nEsta web o sus herramientas de terceros emplea cookies, las cuales son necesarias para el funcionamiento y para los objetivos ilustrados en la política de cookies. Si quiere saber más o negar su consentimiento por favor acceda a nuestros <a href='policy.html'>Términos de Servicio</a> y <a href='policy.html'>Política de Privacidad</a>.\r\nAl cerrar este aviso, desplazarse por esta página, seguir un enlace o de cualquier otro modo continuar navegando por nuestra web, acepta el uso de las mencionadas cookies.",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "gdpr": "Aviso:\r\nEsta web o sus herramientas de terceros emplea cookies, las cuales son necesarias para el funcionamiento y para los objetivos ilustrados en la política de cookies. Si quiere saber más o negar su consentimiento por favor acceda a nuestros <a href='policy.html'>Términos de Servicio</a> y <a href='policy.html'>Política de Privacidad</a>.\r\nAl cerrar este aviso, desplazarse por esta página, seguir un enlace o de cualquier otro modo continuar navegando por nuestra web, acepta el uso de las mencionadas cookies.",
     "siteUrl": "undefined",
     "siteFonts": []
@@ -876,7 +879,7 @@
             "overlayOpacity": 0.5
           },
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -1389,11 +1392,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7w",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1406,13 +1411,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9s"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -2222,11 +2222,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7e",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2239,13 +2241,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9y"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -2532,7 +2529,7 @@
             "overlayOpacity": 0.5
           },
           "title": "¡Únete al equipo!",
-          "text": "<p>Tenemos <a href=\"https://www.glassdoor.com/Overview/Working-at-Kanteron-Systems-EI_IE1521067.11,27.htm\" target=\"_blank\">4.6/5 estrellas en Glassdoor</a></p>",
+          "text": "<p>Tenemos&nbsp;<a href=\"https://www.glassdoor.com/Overview/Working-at-Kanteron-Systems-EI_IE1521067.11,27.htm\" target=\"_blank\">5 estrellas en Glassdoor</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2559,11 +2556,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2576,13 +2575,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9z"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -2811,7 +2805,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/apn-logo-color-324x89.bf1425dd614dd4d3a8fabc983adcc40144cac14d-325x90.png",
+              "src": "@PROJECT_PATH@/assets/images/apn-logo_color_324x89.bf1425dd614dd4d3a8fabc983adcc40144cac14d-325x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2823,7 +2817,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/microsoft-partner-logo-135x90.jpg",
+              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/microsoft_partner_logo-135x90.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2847,7 +2841,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gcplogo-584x90.png",
+              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/gcplogo-584x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2949,7 +2943,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hms-logo-600x151.png",
+              "src": "@PROJECT_PATH@/assets/images/hms_logo-600x151.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2960,7 +2954,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cambridge-hpc-computational-biology-288x61.png",
+              "src": "@PROJECT_PATH@/assets/images/cambridge%20hpc%20computational%20biology-288x61.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3165,11 +3159,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-78",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -3182,13 +3178,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a0"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -3485,7 +3476,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fs-award-small-150x98.png",
+              "src": "@PROJECT_PATH@/assets/images/fs%20award%20small-150x98.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3655,11 +3646,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-75",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -3672,13 +3665,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a1"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -3958,11 +3946,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6z",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -3975,13 +3965,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a2"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -4353,11 +4338,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -4370,13 +4357,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9t"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -4748,11 +4730,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7q",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -4765,13 +4749,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9u"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -5494,11 +5473,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7n",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -5511,13 +5492,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9v"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -5888,11 +5864,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7k",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -5905,13 +5883,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9w"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -6364,18 +6337,20 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>La Plataforma de Kanteron Systems aumenta su PACS-VNA-EHR con módulos que le permiten:</p><p><br></p><p><b>SEGURIDAD EN LA NUBE</b></p><p><br></p><p>Cualquier información que pueda ser utilizada para identificar a un individuo, que le relaciona personalmente con el pasado, presente o futuro de su salud, se considera información de salud personal protegida (PHI). Esta información debe estar cifrada por la ley en básicamente todos los países del mundo (España: LOPD; EE. UU.: HIPAA) y debe ser almacenada sólo en forma cifrada y transmitida sólo a través de medios seguros.</p><p><br></p><p>Sin embargo, la PHI puede ser anonimizada de manera que ya no se considera “personal” ni “protegida” , y por lo tanto puede ser liberada sin peligro. Se puede anonimizar estos datos mediante la eliminación de 18 identificadores. Sin embargo eso plantea un reto en y por sí mismo: ¿cómo se puede gestionar la PHI en un sistema clínico (PACS, RIS, EHR, HIS, LIS , DPS , etc) si se anonimiza de manera tan completa?</p><p><br></p><p>Kanteron Systems ha desarrollado un sistema completo, totalmente compatible con todos los sistemas existentes en el mercado hoy en día, que separa o “splits” del PHI los archivos de datos más grandes, tales como la imagen (la radiología multimodal o patología digital) y datos genómicos. Esto permite a las instituciones sanitarias mantener su PHI en una base de datos local, mientras que pueden cargar/descargar los archivos más grandes (que van desde Megabytes a Gigabytes hasta petabytes cada uno) en una solución alojada o administrada (“nube”).</p><p><br></p><p>Básicamente: el módulo ” SPLIT” de Kanteron Systems – PHI en la nube – permite a las instituciones sanitarias finalmente utilizar la nube de manera segura sin tener que preocuparse de la PHI.</p><p><br></p><p><b>DIRECTTRANSFER</b></p><p><br></p><p>Permite a las redes hospitalarias lograr mayores velocidades de transferencia, reducir costos y establecer redes de telemedicina a gran escala sin problemas mediante la aplicación de<span style=\"font-size: 1.07rem;\">&nbsp;los últimos protocolos de red diseñados para la multimedia online y la aplicación de las lecciones aprendidas de la “Internet de las cosas” (IoT), para lograr un enrutamiento y procesamiento de paquetes de datos más eficiente, flujos de datos dirigidos, simplificación de la configuración de red, y seguridad reforzada.</span></p><p><br></p><p>• Pasar de la emisión broadcast a multidifusión (unicast o)</p><p>• De la traducción de direcciones de red (NAT) a una conectividad de extremo a extremo con una configuración simplificada de la red (dirección de la autoconfiguración)</p><p>• De las transmisiones indiscriminadas a la Calidad de Servicio (QoS)</p><p><br></p><p>Cuando se manejan de muchas imágenes (como la patología digital) o conjuntos de datos complejos (como secuenciación genómica de nueva generación), DirectTransfer de Kanteron realiza las peticiones al servidor de forma multiplex, con lo que la descarga de imágenes y los conjuntos de datos ocurren en paralelo, lo que significa velocidades mucho más rápidas que cualquier otro método disponible en el mercado hoy en día, incluyendo streaming.</p><p><br></p><p>Más allá de la velocidad, la fiabilidad es otra de las claves para el intercambio de datos en la asistencia sanitaria. DirectTransfer de Kanteron permite conectarse a más de un proveedor de servicios al mismo tiempo. Así que si un servicio falla, las sesiones de comunicación se pasan automáticamente a otro.</p><p><br></p><p>La fiabilidad se mejora aún más gracias a la autoconfiguración. Los sistemas más antiguos se basan en servidores DHCP (o engorrosas configuraciones manuales que consumen preciosos recursos del departamento de sistemas) para asignar direcciones de red a los dispositivos, que pueden causar problemas en las instituciones más grandes, proporcionando información contradictoria o el cambio de direcciones después de reinicios. Con DirectTransfer de Kanteron, todo esto es en gran medida innecesario debido a la configuración automática stateless. Lo que significa la conectividad sin fisuras entre un número virtualmente ilimitado de dispositivos médicos.</p><p><br></p><p>Con DirectTransfer de Kanteron, cada dispositivo médico en una red, literalmente puede tener su propia dirección única. La mayoría de las instituciones de salud sólo tienen varias direcciones IP en Internet, asignadas al router que los conecta con su proveedor de servicios. El router a su vez emite direcciones IP internamente a los dispositivos que se conectan a ella, pero debe monitorear continuamente el tráfico al que pertenece a cada dispositivo, y traducir la dirección IP desde la interna a la pública con el fin de facilitar las comunicaciones con otras instituciones sanitarias. DirectTransfer de Kanteron no necesita nada de eso, lo que significa una integración de datos entre las instituciones de salud más rápida y sencilla, más fiable, segura y transparente.</p><p><br></p><p>Pero tal vez la innovación más importante y radical de DirectTransfer de Kanteron se encuentra en la seguridad de los datos. La mayoría de los mecanismos de conexión existentes no han sido diseñados pensando en la seguridad. Por lo tanto, los sistemas de salud se basan en cortafuegos y SSL, engorrosos y a menudo vulnerables, que sólo funcionan en parte de la transmisión de datos. Con esos sistemas también es más difícil de implementar y solucionar problemas de seguridad porque utilizan NAT, que interrumpen la trazabilidad, y por lo tanto las pistas de auditoría de seguridad, considerado por algunos protocolos de seguridad como una violación de la seguridad.</p><p><br></p><p>La seguridad de Kanteron de DirectTransfer también incluye:</p><p><br></p><p>• Capa especial de seguridad incorporada, cifrando cada paquete individual</p><p>• Algoritmos de autenticación basados en firmas destinadas a que el tráfico de datos seguro llegue a su destino correcto sin ser interceptado</p><p>• Permitir intercambios de claves digitales y túneles virtuales</p><p>• Un algoritmo adicional que proporciona confidencialidad, y la autenticación de la fuente</p><p>• Integridad sin conexión del paquete interno</p><p>• Antireplay</p><p>• Confidencialidad del flujo de tráfico limitado</p><p><br></p><p>Para asegurar la compatibilidad con redes hospitalarias existentes, DirectTransfer es compatible con estructuras de redes anteriores. Esto asegura la conectividad entre redes antigüas y nuevas mediante el “dual stack“. [Por favor consulte compatibilidad con su proveedor de telecomunicaciones]</p><p><br></p><p><br></p><p><b>ANALYTICS</b></p><p><br></p><p>Si su sistema actual de PACS-VNA-EHR-HIS no le ofrece analytics, Kanteron Systems le propone emplear nuestro módulo que dispone tanto de Dashboard como de NLP:</p><p><br></p><p>Dashboard (Cuadro de Mando) – Visualizar:</p><ul><li>Uso del sistema (los discos, las redes, las modalidades, los usuarios, productividad, tiempos de espera, de lectura / informes leídos …)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Datos demográficos del paciente (para el seguimiento del tratamiento, candidatos para ensayos clínicos, investigación, etc)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Metadatos estructurados</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Informe – datos clínicos no estructurados</span></li></ul><p><br></p><p>Dashboard – Sistema:&nbsp;</p><ul><li>Totalmente configurable</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Interfaz fácil de usar</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Comparar varios parámetros</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Via web</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Informes en tiempo real o programados (enviado de forma automática)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">En PDF o XLS</span></li></ul><p><br></p><p>NLP (Procesamiento de Lenguaje Natural) en el informe médico para anotación sintáctica, reconocimiento de términos, mapeado de texto a conceptos de una ontología, e identificación de contexto de negación. Permite el reconocimiento de menciones de lesiones específicas en los informes, la extracción de relaciones, y la asociación de la información extraída con las lesiones respectivas.</p><p><br></p><p><b>COLABORACIÓN</b></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El módulo de colaboración de Kanteron Systems añade la posibilidad de colaboración en directo con (múltiples) colaboradores mediante:</span></p><p><br></p><ul><li>Pantalla compartida</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Chat de audio</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Chat de texto</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Videoconferencia</span></li></ul><p><br></p><p>Aunque funciona en todo el sistema TMIS de Kanteron Systems, ofreciendo una completa solución de TeleMedicina, es particularmente útil para patología digital (la cual según algunos estudios requiere una segunda opinión o consulta en el 70% de los casos), y genómica.</p>"
+          "text": "<p>La Plataforma de Kanteron Systems aumenta su PACS-VNA-EHR con módulos que le permiten:</p><p><br></p><p><b>SEGURIDAD EN LA NUBE</b></p><p><br></p><p>Cualquier información que pueda ser utilizada para identificar a un individuo, que le relaciona personalmente con el pasado, presente o futuro de su salud, se considera información de salud personal protegida (PHI). Esta información debe estar cifrada por la ley en básicamente todos los países del mundo (España: LOPD; EE. UU.: HIPAA) y debe ser almacenada sólo en forma cifrada y transmitida sólo a través de medios seguros.</p><p><br></p><p>Sin embargo, la PHI puede ser anonimizada de manera que ya no se considera “personal” ni “protegida” , y por lo tanto puede ser liberada sin peligro. Se puede anonimizar estos datos mediante la eliminación de 18 identificadores. Sin embargo eso plantea un reto en y por sí mismo: ¿cómo se puede gestionar la PHI en un sistema clínico (PACS, RIS, EHR, HIS, LIS , DPS , etc) si se anonimiza de manera tan completa?</p><p><br></p><p>Kanteron Systems ha desarrollado un sistema completo, totalmente compatible con todos los sistemas existentes en el mercado hoy en día, que separa o “splits” del PHI los archivos de datos más grandes, tales como la imagen (la radiología multimodal o patología digital) y datos genómicos. Esto permite a las instituciones sanitarias mantener su PHI en una base de datos local, mientras que pueden cargar/descargar los archivos más grandes (que van desde Megabytes a Gigabytes hasta petabytes cada uno) en una solución alojada o administrada (“nube”).</p><p><br></p><p>Básicamente: el módulo ” SPLIT” de Kanteron Systems – PHI en la nube – permite a las instituciones sanitarias finalmente utilizar la nube de manera segura sin tener que preocuparse de la PHI.</p><p><br></p><p><b>ANALYTICS</b></p><p><br></p><p>Si su sistema actual de PACS-VNA-EHR-HIS no le ofrece analytics, Kanteron Systems le propone emplear nuestro módulo que dispone tanto de Dashboard como de NLP:</p><p><br></p><p>Dashboard (Cuadro de Mando) – Visualizar:</p><ul><li>Uso del sistema (los discos, las redes, las modalidades, los usuarios, productividad, tiempos de espera, de lectura / informes leídos …)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Datos demográficos del paciente (para el seguimiento del tratamiento, candidatos para ensayos clínicos, investigación, etc)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Metadatos estructurados</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Informe – datos clínicos no estructurados</span></li></ul><p><br></p><p>Dashboard – Sistema:&nbsp;</p><ul><li>Totalmente configurable</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Interfaz fácil de usar</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Comparar varios parámetros</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Via web</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Informes en tiempo real o programados (enviado de forma automática)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">En PDF o XLS</span></li></ul><p><br></p><p>NLP (Procesamiento de Lenguaje Natural) en el informe médico para anotación sintáctica, reconocimiento de términos, mapeado de texto a conceptos de una ontología, e identificación de contexto de negación. Permite el reconocimiento de menciones de lesiones específicas en los informes, la extracción de relaciones, y la asociación de la información extraída con las lesiones respectivas.</p><p><br></p><p><b>COLABORACIÓN</b></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">El módulo de colaboración de Kanteron Systems añade la posibilidad de colaboración en directo con (múltiples) colaboradores mediante:</span></p><p><br></p><ul><li>Pantalla compartida</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Chat de audio</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Chat de texto</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Videoconferencia</span></li></ul><p><br></p><p>Aunque funciona en todo el sistema TMIS de Kanteron Systems, ofreciendo una completa solución de TeleMedicina, es particularmente útil para patología digital (la cual según algunos estudios requiere una segunda opinión o consulta en el 70% de los casos), y genómica.</p>"
         },
         {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-7h",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -6388,13 +6363,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-9x"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -6615,7 +6585,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/monticello-health-services-logo-395x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/monticello_health_services_logo-395x120.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6737,9 +6707,9 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2rem; font-weight: 600; line-height: 1.1;\">EUROPA</span><br></p><p><br></p><p>PORTUGAL:</p><ul><li>Hospital Distrital Da Horta EPE (Horta, Islas Azores)</li></ul><p><br></p><p>ESPAÑA:</p><ul><li>Complejo Hospitalario Integral Privado CHIP (Málaga)</li><li>Seqplexing Laboratorio Genómico (Valencia)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Madre de Dios – Fraternidad Muprespa (Madrid)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Centro Méidco Delfos (Barcelona): Arvi</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Instituto Catalán de Oncología, Hospital Durán i Reynals (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Universitario Vall d’Hebron (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Universitario Rof. Codina Santiago de Compostela (Lugo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Santa María del Rosell (Cartagena)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital La Fe (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Clínico Universitario de Valencia (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Casa de Salud (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital La Rivera (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Instituto de Biomecánica (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital General de Castellón (Castellón)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Centro Médico Gandía (Alicante)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital General de Albacete (Albacete)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Clinica Mansilla (Albacete)</span></li></ul><p><br></p><p>REINO UNIDO KINGDOM</p><p>(bajo acuerdo NHS-Inglaterra):</p><ul><li>Great Ormond Street Hospital – NHS (Londres)</li><li>North Bristol Trust</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Liverpool Heart &amp; Chest Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital of South Manchester</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Guy’s and St Thomas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Newcastle upon Tyne Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Addenbrooke’s Hospital | Cambridge University Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Greater Glasgow and Clyde</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University of Bradford</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plymouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Royal Marsden</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lancashire Care</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Forth Valley</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Portsmouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Salford Royal North</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cumbria University Hospital NHS Trust</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">UCLH – University College London</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Leeds Teaching Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Robert Jones and Agnes Hunt Orthopaedic Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Harrogate District Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospitals Coventry</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Warwickshire</span></li></ul>",
-          "text2": "<h3>LATINOAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">BRASIL:</span></p><ul><li>Hospital do Rocio Centro (Curitiba)</li></ul><p><br></p><p>COLOMBIA:</p><ul><li>Hospital Universitario San Ignacio (Bogotá)</li></ul><p><br></p><p>CHILE:</p><ul><li>ITMS (Santiago)</li><li>Hospital de Castro</li><li>Hospital El Pino</li><li>Hospital San Juan de Dios</li><li>Hospital del Salvador</li><li>Hospital San Jose</li><li>Hospital Padre Hurtado</li><li>Hospital Sotero del Rio</li><li>Hospital Barros Luco</li><li>Hospital Asistencia Publica</li><li>Hospital de Talca</li><li>Hospital Puerto Montt</li><li>Hospital Regional de Arica</li><li>Hospital Regional de Iquique</li><li>Hospital Regional de Antofagasta</li><li>Hospital Regional de Copiapo</li><li>Hospital La Serena</li><li>Hospital De Coquimbo</li><li>Hospital Dr. Gustavo Fricke</li><li>Hospital Carlos Van Buren</li><li>Hospital San Camilo</li><li>Hospital San Juan de Dios Los Andes</li><li>Hospital Regional de Rancagua</li><li>Hospital Regional de Concepcion</li><li>Hospital Las Higueras</li><li>Hospital de los Angeles</li><li>Hospital de Victoria</li><li>Hospital Regional de Temuco</li><li>Hospital Base Valdivia</li><li>Hospital Base Osorno</li><li>Hospital Regional de Coyhaique</li><li>Hospital de Magallanes</li><li>Hospital de Calama</li><li>Hospital de Vallenar</li><li>Hospital de San Antonio</li></ul><p><br></p><p>ECUADOR:</p><ul><li>Hospital Alcivar (Guayaquil)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Policía National (Guayaquil)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solca (Portoviejo)</span></li></ul><p><br></p><p>MÉXICO:</p><ul><li>ISSSTE Hospital &nbsp;De Alta Especialidad 20 de Noviembre (México DF)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Bicentenario Independencia (Tultitlán)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad “Centenario de la Revolución Mexicana” (Emiliano Zapata-Morelos)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Morelia (Morelia, Mich.)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">IMSS Hospital General Regional Ciudad Madero (Ciudad Madero)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">IMSS Centro Médico Nacional Siglo XXI (México DF)</span></li></ul><p><br></p><p>PERÚ:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bajo contrato EsSalud:</span><br></p><ul><li>Hospital Carlos Alcántara Butterfield (Lima)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Edgardo Rebagliati (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Guillermo Almenara (La Victoria)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital de Emergencias Grau (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Sabogal (Callao)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional nivel IV Ramiro Priale (Huancayo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Complejo de Hospitales EsSalud (Arequipa)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Lambayeque (Patapo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Clinica Chepén, (La Libertad)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Tacna (Tacna)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Huancavelica (Huancavelica)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Vitarte (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Policlínico Francisco Pizarro (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Angamos (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Cayetano Heredia (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Jorge Reategui Delgado (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Sullana (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Paita (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Talara (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Chachapoyas (Amazonas)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Mario Urteaga (Cajamarca)</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">URUGUAY:</span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ASSE (Montevideo)<br><br></span></li></ul>",
-          "text3": "<h3>NORTEAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EE. UU.:</span><br></p><ul><li>ACR – American College of Radiology (Virginia)</li><li>Monticello Diagnostic Imaging (Texas)</li><li>Minkowitz Pathology (Nueva York)</li><li>Imaging End Points (Arizona)</li></ul><h3><br></h3><h3>ÁFRICA</h3><p><span style=\"font-size: 1.07rem;\">ETIOPÍA:</span><br></p><p>&nbsp; &nbsp; •&nbsp;<span style=\"font-size: 1.07rem;\">AMC (Addis Abeba)</span></p><p>&nbsp; &nbsp; • Hospital General Saint Yared (Addis Abeba)</p>",
+          "text1": "<p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 2rem; font-weight: 600; line-height: 1.1;\">EUROPA</span><br></p><p><br></p><p>PORTUGAL:</p><ul><li>Hospital Distrital Da Horta EPE (Horta, Açores Islands)</li></ul><p><br></p><p>ESPAÑA:</p><ul><li>Complejo Hospitalario Integral Privado CHIP (Malaga)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Madre de Dios – Fraternidad Muprespa (Madrid)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Delfos Medical Center (Barcelona): Arvi</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Catalan Institute of Oncology at Durán i Reynals Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Vall d’Hebron University Hospital (Barcelona)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Rof. Codina Santiago de Compostela University  (Lugo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Santa María del Rosell (Cartagena)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Fe Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital Clinico de Valencia (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Casa de Salud (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La Rivera Hospital (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Biomechanics Institute (Valencia)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">General Hospital of Castellón (Castellón)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Centro Médico Gandía (Alicante)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Albacete General Hospital (Albacete)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Clinica Mansilla (Albacete)</span></li></ul><p><br></p><p>REINO UNIDO KINGDOM</p><p>(bajo acuerdo NHS-Inglaterra):</p><ul><li>Great Ormond Street Hospital – NHS (Londres)</li><li>North Bristol Trust</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Liverpool Heart &amp; Chest Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospital of South Manchester</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Guy’s and St Thomas</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Newcastle upon Tyne Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Addenbrooke’s Hospital | Cambridge University Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Greater Glasgow and Clyde</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University of Bradford</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plymouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The Royal Marsden</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lancashire Care</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Forth Valley</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Portsmouth Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Salford Royal North</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cumbria University Hospital NHS Trust</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">UCLH – University College London</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Leeds Teaching Hospitals</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Robert Jones and Agnes Hunt Orthopaedic Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Harrogate District Hospital</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">University Hospitals Coventry</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Warwickshire</span></li></ul>",
+          "text2": "<h3>LATINOAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">BRASIL:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">COLOMBIA:</span><br></p><ul><li>Hospital Universitario San Ignacio (Bogotá)</li></ul><p><br></p><p>CHILE:</p><ul><li>ITMS (Santiago)</li><li>Hospital de Castro</li><li>Hospital El Pino</li><li>Hospital San Juan de Dios</li><li>Hospital del Salvador</li><li>Hospital San Jose</li><li>Hospital Padre Hurtado</li><li>Hospital Sotero del Rio</li><li>Hospital Barros Luco</li><li>Hospital Asistencia Publica</li><li>Hospital de Talca</li><li>Hospital Puerto Montt</li><li>Hospital Regional de Arica</li><li>Hospital Regional de Iquique</li><li>Hospital Regional de Antofagasta</li><li>Hospital Regional de Copiapo</li><li>Hospital La Serena</li><li>Hospital De Coquimbo</li><li>Hospital Dr. Gustavo Fricke</li><li>Hospital Carlos Van Buren</li><li>Hospital San Camilo</li><li>Hospital San Juan de Dios Los Andes</li><li>Hospital Regional de Rancagua</li><li>Hospital Regional de Concepcion</li><li>Hospital Las Higueras</li><li>Hospital de los Angeles</li><li>Hospital de Victoria</li><li>Hospital Regional de Temuco</li><li>Hospital Base Valdivia</li><li>Hospital Base Osorno</li><li>Hospital Regional de Coyhaique</li><li>Hospital de Magallanes</li><li>Hospital de Calama</li><li>Hospital de Vallenar</li><li>Hospital de San Antonio</li></ul><p><br></p><p>ECUADOR:</p><ul><li>Hospital Alcivar (Guayaquil)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Policía National (Guayaquil)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Solca (Portoviejo)</span></li></ul><p><br></p><p>MÉXICO:</p><ul><li>ISSSTE Hospital &nbsp;De Alta Especialidad 20 de Noviembre (México DF)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Bicentenario Independencia (Tultitlán)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad “Centenario de la Revolución Mexicana” (Emiliano Zapata-Morelos)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISSSTE Hospital  De Alta Especialidad Morelia (Morelia, Mich.)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">IMSS Hospital General Regional Ciudad Madero (Ciudad Madero)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">IMSS Centro Médico Nacional Siglo XXI (México DF)</span></li></ul><p><br></p><p>PERÚ:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bajo contrato EsSalud:</span><br></p><ul><li>Hospital Carlos Alcántara Butterfield (Lima)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Edgardo Rebagliati (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Guillermo Almenara (La Victoria)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital de Emergencias Grau (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional Sabogal (Callao)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Nacional nivel IV Ramiro Priale (Huancayo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Complejo de Hospitales EsSalud (Arequipa)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Lambayeque (Patapo)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Clinica Chepén, (La Libertad)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Tacna (Tacna)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Huancavelica (Huancavelica)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Vitarte (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Policlínico Francisco Pizarro (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Angamos (Lima)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Cayetano Heredia (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Jorge Reategui Delgado (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Sullana (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Paita (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Talara (Piura)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Chachapoyas (Amazonas)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hospital Mario Urteaga (Cajamarca)</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">URUGUAY:</span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">ASSE (Montevideo)</span></li></ul>",
+          "text3": "<h3>NORTEAMÉRICA</h3><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EE. UU.:</span><br></p><ul><li>ACR – American College of Radiology (Virginia)</li><li>Monticello Diagnostic Imaging (Texas)</li><li>Minkowitz Pathology (Nueva York)</li><li>Imaging End Points (Arizona)</li></ul><h3><br></h3><h3>ÁFRICA</h3><p><span style=\"font-size: 1.07rem;\">ETIOPÍA:</span><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">AMC (Addis Abeba)</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Hospital General Saint Yared (Addis Abeba)</p>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -6776,11 +6746,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -6793,13 +6765,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a4"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -7034,11 +7001,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-6w",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -7051,13 +7020,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a5"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -7358,11 +7322,13 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-72",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -7375,13 +7341,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a3"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -7617,11 +7578,12 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -7634,13 +7596,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "_tags": [
-            "Theme"
-          ],
           "text": "SÍGUENOS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a6"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/KanteronSystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/b/102193154533258755916/102193154533258755916\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCAYCuOrmhDnYfgEv6AkdldA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.flickr.com/photos/kanteron\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-flickr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"http://www.pinterest.com/kanteronsystems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/kanteron-systems\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_anchor": "social-buttons4-9e"
         },
         {
           "_tags": [
