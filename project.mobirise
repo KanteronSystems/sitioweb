@@ -32,6 +32,9 @@
     "screenshot": "screenshot.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-51273041-2', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "Aviso:\r\nEsta web o sus herramientas de terceros emplea cookies, las cuales son necesarias para el funcionamiento y para los objetivos ilustrados en la política de cookies. Si quiere saber más o negar su consentimiento por favor acceda a nuestros <a href='policy.html'>Términos de Servicio</a> y <a href='policy.html'>Política de Privacidad</a>.\r\nAl cerrar este aviso, desplazarse por esta página, seguir un enlace o de cualquier otro modo continuar navegando por nuestra web, acepta el uso de las mencionadas cookies.",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "gdpr": "Aviso:\r\nEsta web o sus herramientas de terceros emplea cookies, las cuales son necesarias para el funcionamiento y para los objetivos ilustrados en la política de cookies. Si quiere saber más o negar su consentimiento por favor acceda a nuestros <a href='policy.html'>Términos de Servicio</a> y <a href='policy.html'>Política de Privacidad</a>.\r\nAl cerrar este aviso, desplazarse por esta página, seguir un enlace o de cualquier otro modo continuar navegando por nuestra web, acepta el uso de las mencionadas cookies.",
     "siteUrl": "undefined",
     "siteFonts": []
@@ -2811,7 +2814,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/apn-logo-color-324x89.bf1425dd614dd4d3a8fabc983adcc40144cac14d-325x90.png",
+              "src": "@PROJECT_PATH@/assets/images/apn-logo_color_324x89.bf1425dd614dd4d3a8fabc983adcc40144cac14d-325x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2823,7 +2826,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/microsoft-partner-logo-135x90.jpg",
+              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/microsoft_partner_logo-135x90.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2847,7 +2850,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gcplogo-584x90.png",
+              "src": "file:///Users/jorge/Documents/GitHub/website//assets/images/gcplogo-584x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2949,7 +2952,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hms-logo-600x151.png",
+              "src": "@PROJECT_PATH@/assets/images/hms_logo-600x151.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2960,7 +2963,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cambridge-hpc-computational-biology-288x61.png",
+              "src": "@PROJECT_PATH@/assets/images/cambridge%20hpc%20computational%20biology-288x61.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3485,7 +3488,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fs-award-small-150x98.png",
+              "src": "@PROJECT_PATH@/assets/images/fs%20award%20small-150x98.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6615,7 +6618,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/monticello-health-services-logo-395x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/monticello_health_services_logo-395x120.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
