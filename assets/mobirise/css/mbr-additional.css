@@ -759,6 +759,14 @@ h6,
 #testimonials1-i .mbr-section-title {
   font-size: 46px;
 }
+#header3-ag .mbr-section-title,
+#header3-ag .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-af .mbr-section-title,
+#header3-af .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-h .mbr-section-title,
 #social-buttons4-h .btn-social {
   color: #fff;
