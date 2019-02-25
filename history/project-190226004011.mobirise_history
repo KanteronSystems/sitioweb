@@ -26,7 +26,7 @@
     "noImageResize": "",
     "globalfooter": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 378,
+    "uniqCompNum": 377,
     "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7274,24 +7274,6 @@
           "_anchor": "custom-html-8k",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ah",
-          "_customHTML": "<iframe src=\"http://static.issuu.com/widgets/shelf/index.html?folderId=640bf38c-8da2-4d23-aa3f-f5754b1df079&amp;theme=theme3&amp;rows=3&amp;thumbSize=small&amp;roundedCorners=false&amp;showTitle=true&amp;showAuthor=true&amp;shadow=true&amp;effect3d=true\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"400\"></iframe>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
         },
         {
           "_inherit": "social-buttons2",
