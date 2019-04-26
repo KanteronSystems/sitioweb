@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "company.html",
+    "currentPage": "testimonials.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1951,7 +1951,7 @@
           },
           "title1": "PERFILES",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>Perfiles</b>&nbsp;en: <br><a href=\"https://app.dealroom.co/companies/kanteron_systems\" target=\"_blank\">Dealroom</a><br><a href=\"https://angel.co/kanteron-systems-1\" target=\"_blank\">Angelist</a><br><a href=\"https://www.cbinsights.com/company/kanteron-systems\" target=\"_blank\">CBInsights</a><br><a href=\"https://www.crunchbase.com/organization/kanteron-systems\" target=\"_blank\">Crunchbase</a><br><div><a href=\"https://www.owler.com/iaApp/199415/kanteron-systems-company-profile\" target=\"_blank\">Owler</a></div><div><a href=\"https://craft.co/kanteron-systems\" target=\"_blank\">Craft</a></div><div><a href=\"https://startuptracker.io/startups/kanteron-systems\" target=\"_blank\">StartupTracker</a></div><div><a href=\"https://index.co/company/kanteron-systems\">Index.co</a></div>",
+          "caption1": "<b>Perfiles</b>&nbsp;en: <br><a href=\"https://app.dealroom.co/companies/kanteron_systems\" target=\"_blank\">Dealroom</a><br><a href=\"https://angel.co/kanteron-systems-1\" target=\"_blank\">Angelist</a><br><a href=\"https://www.cbinsights.com/company/kanteron-systems\" target=\"_blank\">CBInsights</a><br><a href=\"https://www.crunchbase.com/organization/kanteron-systems\" target=\"_blank\">Crunchbase</a><br><div><a href=\"https://www.owler.com/iaApp/199415/kanteron-systems-company-profile\" target=\"_blank\">Owler</a></div><div><a href=\"https://craft.co/kanteron-systems\" target=\"_blank\">Craft</a></div><div><a href=\"https://startuptracker.io/startups/kanteron-systems\" target=\"_blank\">StartupTracker</a></div>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
