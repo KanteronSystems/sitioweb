@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kanteron sitio web",
-    "currentPage": "index.html",
+    "currentPage": "team.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -47,7 +47,7 @@
         "main": true,
         "title": "Kanteron Systems",
         "meta_descr": "Sitio web oficial de Kanteron Systems",
-        "header_custom": "<script>\n!function(p,r,i,v,a,c,y){p.Metomic={apiKey:i};p[i]||(p[i]=function(){\n(p[i].q=p[i].q||[]).push(arguments)});p[i].l=+new Date;c=r.createElement(v);\ny=r.getElementsByTagName(v)[0];p.Metomic.script=c;c.src=a;y.parentNode.insertBefore(c,y)}\n(window,document,'prj:09d86c9d-e051-44f8-9eab-eb46451256d7','script','https://consent-manager.metomic.io/embed.js');\n</script>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -204,7 +204,7 @@
                 "showTitle": true,
                 "title": "CENTRADO EN EL PACIENTE",
                 "showText": true,
-                "text": "Colaboración: Consejos Tumorales, Equipos Multidisciplinares, Telemedicina...",
+                "text": "Colaboración, Equipos Multidisciplinares (MDT), Telemedicina...",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
                 "overlayOpacity": "0.3"
@@ -232,7 +232,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "CON LAS ÚLTIMAS TECNOLOGíAS",
+                "title": "EMPLEANDO LAS ÚLTIMAS TECNOLOGíAS",
                 "showText": true,
                 "text": "Inteligencia Artificial flexible, in-situ o en la nube, contenedores y microservicios (APIs), HTML5 en cualquier dispositivo, multi-idioma, código abierto...",
                 "showButtons": false,
